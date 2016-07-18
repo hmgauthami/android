@@ -1,0 +1,84 @@
+[
+  {
+    "ToFind": [
+      {
+        "name": "Capacitance (C)",
+        "type": "1",
+        "typeOf": [
+          {
+            "name": "Coulombs(Q) and Volts(E) are Known",
+            "inputValues": [
+            "Q (Coulombs)",
+            "E (Volts)"
+          ]},
+          {
+            "name": "Coils Connected in Series",
+            "inputValues": [
+              "C1 (Capacitance1)",
+              "C2 (Capacitance2)",
+              "C3 (Capacitance3)",
+              "C4 (Capacitance4)",
+              "C5 (Capacitance5)"
+            ]
+          },
+          {
+            "name": "Coils Connected in Parallel",
+            "inputValues": [
+              "C1 (Capacitance1)",
+              "C2 (Capacitance2)",
+              "C3 (Capacitance3)",
+              "C4 (Capacitance4)",
+              "C5 (Capacitance5)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inductance (L)",
+        "type": "2",
+        "typeOf": [
+          {
+            "name": "Coils Connected in Series",
+            "inputValues": [
+              "L1 (Inductance1)",
+              "L2 (Inductance2)",
+              "L3 (Inductance3)",
+              "L4 (Inductance4)",
+              "L5 (Inductance5)"
+            ]
+          },
+          {
+            "name": "Coils Connected in Parallel",
+            "inputValues": [
+              "L1 (Inductance1)",
+              "L2 (Inductance2)",
+              "L3 (Inductance3)",
+              "L4 (Inductance4)",
+              "L5 (Inductance5)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Reactance (X)",
+        "type": "3",
+        "typeOf": [
+          {
+            "name": "XL (Inductive Reactance)",
+            "inputValues": [
+              "F (Frequency)",
+              "L (Inductance)"
+            ]
+          },
+          {
+            "name": "Xc (Capacitive Reactance)",
+            "inputValues": [
+              "F (Frequency)",
+              "C (Capacitance)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "Wiring Diagrams": [
+      {
+        "Poles": [
+          {
+            "name": "2 Pole",
+            "wire": [
+              {
+                "name": "2 Wire",
+                "ground": [
+                  {
+                    "name": "Non-Grounding",
+                    "voltage": [
+                      {
+                        "name": "125V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun055"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "250V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun056"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "3 Wire",
+                "ground": [
+                  {
+                    "name": "Grounding",
+                    "voltage": [
+                      {
+                        "name": "125V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun057"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "250V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun058"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "277V AC",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun054_5"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "480V AC",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun059"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "3 Pole",
+            "wire": [
+              {
+                "name": "3 Wire",
+                "ground": [
+                  {
+                    "name": "Non-Grounding",
+                    "voltage": [
+                      {
+                        "name": "125/250V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun060"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "250V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun061"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "4 Wire",
+                "ground": [
+                  {
+                    "name": "Grounding",
+                    "voltage": [
+                      {
+                        "name": "125/250V",
+                        "phase": [
+                          {
+                            "name": "Single phase",
+                            "image":"ch00_unnun062"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "250V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun063"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "480V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun064"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "600V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun065"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4 Pole",
+            "wire": [
+              {
+                "name": "4 Wire",
+                "ground": [
+                  {
+                    "name": "Non-Grounding",
+                    "voltage": [
+                      {
+                        "name": "120/208V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun066"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "277/480V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun067"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "347/600V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun068"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "5 Wire",
+                "ground": [
+                  {
+                    "name": "Grounding",
+                    "voltage": [
+                      {
+                        "name": "120/208V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun069"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "277/480V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun070"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "347/600V",
+                        "phase": [
+                          {
+                            "name": "3-phase",
+                            "image":"ch00_unnun071"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

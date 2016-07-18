@@ -1,0 +1,201 @@
+[
+  {
+    "ToFind": [
+      {
+        "symbol": "I",
+        "name": "Amperes (I)",
+        "type": "1",
+        "knownValue": [
+          {
+            "inputValues": [
+              "HP (Horsepower)"
+            ],
+            "name": "HP",
+            "types": [
+              {
+                "inputValues": [
+                  "E (Volts)",
+                  "%EFF (Efficiency)"
+                ],
+                "name": "Direct Current"
+              },
+              {
+                "inputValues": [
+                  "E (Volts)",
+                  "%EFF (Efficiency)",
+                  "PF (Power Factor)"
+                ],
+                "name": "Single Phase"
+              },
+              {
+                "inputValues": [
+                  "E (Volts)",
+                  "%EFF (Efficiency)",
+                  "PF (Power Factor)"
+                ],
+                "name": "Three Phase"
+              }
+            ]
+          },
+          {
+            "inputValues": [
+              "KW (KiloWatts)"
+            ],
+            "name": "KW",
+            "types": [
+              {
+                "inputValues": [
+                  "E (Volts)"
+                ],
+                "name": "Direct Current"
+              },
+              {
+                "inputValues": [
+                  "E (Volts)",
+                  "PF (Power Factor)"
+                ],
+                "name": "Single Phase"
+              },
+              {
+                "inputValues": [
+                  "E (Volts)",
+                  "PF (Power Factor)"
+                ],
+                "name": "Three Phase"
+              }
+            ]
+          },
+          {
+            "inputValues": [
+              "P (Watts)",
+              "E (Volts)",
+              "PF (Power Factor)"
+            ],
+            "name": "Watts, Volts and PF",
+            "types": [
+              {
+                "name": "Single Phase"
+              },
+              {
+                "name": "Three Phase"
+              }
+            ]
+          },
+          {
+            "inputValues": [
+              "KVA (KiloVolt-Ampere)"
+            ],
+            "name": "KVA",
+            "types": [
+              {
+                "inputValues": [
+                  "E (Volts)"
+                ],
+                "name": "Single Phase"
+              },
+              {
+                "inputValues": [
+                  "E (Volts)"
+                ],
+                "name": "Three Phase"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "symbol": "HP",
+        "name": "HorsePower (HP)",
+        "type": "2",
+        "knownValue": [
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)",
+              "%EFF (Efficiency)"
+            ],
+            "name": "Direct Current"
+          },
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)",
+              "%EFF (Efficiency)",
+              "PF (Power Factor)"
+            ],
+            "name": "Single Phase"
+          },
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)",
+              "%EFF (Efficiency)",
+              "PF (Power Factor)"
+            ],
+            "name": "Three Phase"
+          }
+        ]
+      },
+      {
+        "inputValues": [
+          "E (Volts)",
+          "I (Amperes)"
+        ],
+        "symbol": "P",
+        "name": "Watts (P)",
+        "type": "3"
+      },
+      {
+        "symbol": "KW",
+        "name": "Kilowatts (KW)",
+        "type": "4",
+        "knownValue": [
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)"
+            ],
+            "name": "Direct Current"
+          },
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)",
+              "PF (Power Factor)"
+            ],
+            "name": "Single Phase"
+          },
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)",
+              "PF (Power Factor)"
+            ],
+            "name": "Three Phase"
+          }
+        ]
+      },
+      {
+        "symbol": "KVA",
+        "name": "Kilovolt-Amperes (KVA)",
+        "type": "5",
+        "knownValue": [
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)"
+            ],
+            "name": "Single Phase"
+          },
+          {
+            "inputValues": [
+              "E (Volts)",
+              "I (Amperes)"
+            ],
+            "name": "Three Phase"
+          }
+        ]
+      }
+    ]
+  }
+]

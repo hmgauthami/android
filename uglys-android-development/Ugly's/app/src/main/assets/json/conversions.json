@@ -1,0 +1,228 @@
+[
+  {
+    "Conversions": [
+      {
+        "name": "Temperature",
+        "type": "1",
+        "parameters": [
+          {
+            "name": "Celsius"
+          },
+          {
+            "name": "Fahrenheit"
+          }
+        ]
+      },
+      {
+        "name": "Weight",
+        "type": "2",
+        "parameters": [
+          {
+            "name": "Milligram"
+          },
+          {
+            "name": "Centigram"
+          },
+          {
+            "name": "Decigram"
+          },
+          {
+            "name": "Gram"
+          },
+          {
+            "name": "Dekagram"
+          },
+          {
+            "name": "Hectogram"
+          },
+          {
+            "name": "Kilogram"
+          },
+          {
+            "name": "Ton"
+          },
+          {
+            "name": "Carat"
+          },
+          {
+            "name": "Newton"
+          },
+          {
+            "name": "Ounce"
+          },
+          {
+            "name": "Pound"
+          },
+          {
+            "name": "Stone"
+          }
+        ]
+      },
+      {
+        "name": "Area",
+        "type": "3",
+        "parameters": [
+          {
+            "name": "SquareFoot"
+          },
+          {
+            "name": "SquareYard"
+          },
+          {
+            "name": "SquareMeter"
+          },
+          {
+            "name": "SquareKilometer"
+          },
+          {
+            "name": "SquareMile"
+          },
+          {
+            "name": "Acre"
+          },
+          {
+            "name": "Hectare"
+          }
+        ]
+      },
+      {
+        "name": "Length",
+        "type": "4",
+        "parameters": [
+          {
+            "name": "Millimeter"
+          },
+          {
+            "name": "Centimeter"
+          },
+          {
+            "name": "Decimeter"
+          },
+          {
+            "name": "Meter"
+          },
+          {
+            "name": "Dekameter"
+          },
+          {
+            "name": "Hectometer"
+          },
+          {
+            "name": "Kilometer"
+          },
+          {
+            "name": "Yard"
+          },
+          {
+            "name": "Parsec"
+          },
+          {
+            "name": "Mile"
+          },
+          {
+            "name": "Foot"
+          },
+          {
+            "name": "Fathom"
+          },
+          {
+            "name": "Inch"
+          },
+          {
+            "name": "League"
+          }
+        ]
+      },
+      {
+        "name": "Time",
+        "type": "5",
+        "parameters": [
+          {
+            "name": "Nanosecond"
+          },
+          {
+            "name": "Microsecond"
+          },
+          {
+            "name": "Millisecond"
+          },
+          {
+            "name": "Centisecond"
+          },
+          {
+            "name": "Second"
+          },
+          {
+            "name": "Minute"
+          },
+          {
+            "name": "Hour"
+          },
+          {
+            "name": "Day"
+          },
+          {
+            "name": "Week"
+          },
+          {
+            "name": "Fortnight"
+          },
+          {
+            "name": "Month"
+          },
+          {
+            "name": "Year"
+          },
+          {
+            "name": "Decade"
+          },
+          {
+            "name": "Century"
+          },
+          {
+            "name": "Millennium"
+          }
+        ]
+      },
+      {
+        "name": "Volume",
+        "type": "6",
+        "parameters": [
+          {
+            "name": "Microliter"
+          },
+          {
+            "name": "Milliliter"
+          },
+          {
+            "name": "Centiliter"
+          },
+          {
+            "name": "Litre"
+          },
+          {
+            "name": "Dekaliter"
+          },
+          {
+            "name": "Hectoliter"
+          },
+          {
+            "name": "Kiloliter"
+          },
+          {
+            "name": "Gill"
+          },
+          {
+            "name": "Gallon"
+          },
+          {
+            "name": "Pint"
+          },
+          {
+            "name": "Quart"
+          }
+        ]
+      }
+    ]
+  }
+]

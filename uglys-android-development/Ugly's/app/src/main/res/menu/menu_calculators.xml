@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ascendlearning.jbl.uglys.activities.ConversionsActivity">
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/wrapper_addbookmark"
+        android:title="AddBookmark"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/home_menu_icon"
+        android:title="Home"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mainMenu"
+        android:icon="@drawable/ic_action_overflow"
+        android:title=""
+        app:showAsAction="always">
+
+        <menu>
+
+            <item
+                android:id="@+id/action_search"
+                android:icon="@drawable/search_menu_icon"
+                android:title="Search"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_bookmarks"
+                android:icon="@drawable/bookmarks_menu_icon"
+                android:title="Bookmarks"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/action_about"
+                android:icon="@drawable/about_menu_icon"
+                android:title="About"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+</menu>

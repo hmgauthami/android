@@ -1,0 +1,471 @@
+[
+  {
+    "FLC Calculator": [
+      {
+        "HP": [
+          {
+            "name": "1/2 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "2.2",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "2.530",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "1.1",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "1.265",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "3/4 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "3.2",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "3.680",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "1.6",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "1.840",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "1 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "4.2",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "4.830",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "2.1",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "2.415",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "1 1/2 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "6.0",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "6.900",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "3.0",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "3.450",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "2 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "6.8",
+                "breaker_size": 15,
+                "starter_size": "0",
+                "heater_amps": "7.820",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "3.4",
+                "breaker_size": 15,
+                "starter_size": "00",
+                "heater_amps": "3.910",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "3 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "11.040",
+                "breaker_size": 20,
+                "starter_size": "0",
+                "heater_amps": "3.680",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "5.520",
+                "breaker_size": 15,
+                "starter_size": "0",
+                "heater_amps": "1.840",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "5 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "15.2",
+                "breaker_size": 20,
+                "starter_size": "1",
+                "heater_amps": "17.480",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "7.6",
+                "breaker_size": 15,
+                "starter_size": "0",
+                "heater_amps": "8.740",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "7 1/2 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "22",
+                "breaker_size": 45,
+                "starter_size": "1",
+                "heater_amps": "25.300",
+                "wire_size": "10",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "11",
+                "breaker_size": 20,
+                "starter_size": "1",
+                "heater_amps": "12.650",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "10 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "28",
+                "breaker_size": 60,
+                "starter_size": "2",
+                "heater_amps": "32.200",
+                "wire_size": "10",
+                "conduit_size": "3/4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "14",
+                "breaker_size": 30,
+                "starter_size": "1",
+                "heater_amps": "16.100",
+                "wire_size": "12",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "15 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "42",
+                "breaker_size": 70,
+                "starter_size": "2",
+                "heater_amps": "48.300",
+                "wire_size": "6",
+                "conduit_size": "1\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "21",
+                "breaker_size": 40,
+                "starter_size": "2",
+                "heater_amps": "28.150",
+                "wire_size": "10",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "20 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "54",
+                "breaker_size": 100,
+                "starter_size": "3",
+                "heater_amps": "62.100",
+                "wire_size": "4",
+                "conduit_size": "1\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "27",
+                "breaker_size": 50,
+                "starter_size": "2",
+                "heater_amps": "32.050",
+                "wire_size": "10",
+                "conduit_size": "3/4\""
+              }
+            ]
+          },
+          {
+            "name": "25 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "68",
+                "breaker_size": 100,
+                "starter_size": "3",
+                "heater_amps": "78.200",
+                "wire_size": "4",
+                "conduit_size": "1 1/2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "34",
+                "breaker_size": 50,
+                "starter_size": "2",
+                "heater_amps": "39.100",
+                "wire_size": "8",
+                "conduit_size": "1\""
+              }
+            ]
+          },
+          {
+            "name": "30 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "80",
+                "breaker_size": 125,
+                "starter_size": "3",
+                "heater_amps": "92.000",
+                "wire_size": "3",
+                "conduit_size": "1 1/2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "40",
+                "breaker_size": 70,
+                "starter_size": "3",
+                "heater_amps": "46.000",
+                "wire_size": "8",
+                "conduit_size": "1\""
+              }
+            ]
+          },
+          {
+            "name": "40 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "104",
+                "breaker_size": 175,
+                "starter_size": "4",
+                "heater_amps": "119.600",
+                "wire_size": "1",
+                "conduit_size": "1 1/2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "52",
+                "breaker_size": 100,
+                "starter_size": "3",
+                "heater_amps": "59.800",
+                "wire_size": "6",
+                "conduit_size": "1\""
+              }
+            ]
+          },
+          {
+            "name": "50 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "130",
+                "breaker_size": 200,
+                "starter_size": "4",
+                "heater_amps": "149.500",
+                "wire_size": "00",
+                "conduit_size": "2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "65",
+                "breaker_size": 150,
+                "starter_size": "3",
+                "heater_amps": "74.750",
+                "wire_size": "4",
+                "conduit_size": "1 1/2\""
+              }
+            ]
+          },
+          {
+            "name": "60 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "154",
+                "breaker_size": 250,
+                "starter_size": "5",
+                "heater_amps": "177.10",
+                "wire_size": "000",
+                "conduit_size": "2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "77",
+                "breaker_size": 200,
+                "starter_size": "4",
+                "heater_amps": "88.55",
+                "wire_size": "3",
+                "conduit_size": "1 1/2\""
+              }
+            ]
+          },
+          {
+            "name": "75 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "192",
+                "breaker_size": 300,
+                "starter_size": "5",
+                "heater_amps": "220.80",
+                "wire_size": "250 kcmil",
+                "conduit_size": "2 1/2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "96",
+                "breaker_size": 200,
+                "starter_size": "4",
+                "heater_amps": "110.40",
+                "wire_size": "1",
+                "conduit_size": "1 1/2\""
+              }
+            ]
+          },
+          {
+            "name": "100 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "248",
+                "breaker_size": 400,
+                "starter_size": "5",
+                "heater_amps": "285.20",
+                "wire_size": "350 kcmil",
+                "conduit_size": "3\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "124",
+                "breaker_size": 200,
+                "starter_size": "4",
+                "heater_amps": "142.60",
+                "wire_size": "2/0",
+                "conduit_size": "2\""
+              }
+            ]
+          },
+          {
+            "name": "125 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "312",
+                "breaker_size": 500,
+                "starter_size": "6",
+                "heater_amps": "358.80",
+                "wire_size": "600 kcmil",
+                "conduit_size": "3 1/2\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "156",
+                "breaker_size": 250,
+                "starter_size": "5",
+                "heater_amps": "142.60",
+                "wire_size": "000",
+                "conduit_size": "2\""
+              }
+            ]
+          },
+          {
+            "name": "150 HP",
+            "values": [
+              {
+                "name": "230 V",
+                "motor_ampere": "360",
+                "breaker_size": 600,
+                "starter_size": "6",
+                "heater_amps": "414.00",
+                "wire_size": "700 kcmil",
+                "conduit_size": "4\""
+              },
+              {
+                "name": "460 V",
+                "motor_ampere": "180",
+                "breaker_size": 300,
+                "starter_size": "5",
+                "heater_amps": "207.00",
+                "wire_size": "0000",
+                "conduit_size": "2 1/2\""
+              }
+            ]
+          }
+
+        ]
+      }
+    ]
+  }
+]

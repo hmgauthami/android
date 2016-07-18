@@ -1,0 +1,54 @@
+[
+  {
+    "Calculators": [
+      {
+        "name": "Ohm’s Law Calculator",
+        "type": 1
+      },
+      {
+        "name": "To Find: Amps, Watts, Horsepower, KVA",
+        "type": 2
+      },
+      {
+        "name": "To Find: Capacitance, Inductance, Reactance",
+        "type": 13
+      },
+      {
+        "name": "PF Correction Calculator",
+        "type": 3
+      },
+      {
+        "name": "FLC Calculator",
+        "type": 4
+      },
+      {
+        "name": "Three-phase AC motor data: Starter, Breaker, Heater, Wire, and Conduit size",
+        "type": 5
+      },
+      {
+        "name": "Locked Rotor Current Calculator",
+        "type": 6
+      },
+      {
+        "name": "Voltage Drop Calculator",
+        "type": 7
+      },
+      {
+        "name": "FLC-Transformers Calculator",
+        "type": 8
+      },
+      {
+        "name": "Simple Ampacity Calculator",
+        "type": 9
+      },
+      {
+        "name": "Conduit Fill Calculator",
+        "type": 10
+      },
+      {
+        "name": "Offset Bending Calculator",
+        "type": 12
+      }
+    ]
+  }
+]

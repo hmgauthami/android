@@ -1,0 +1,714 @@
+[
+  {
+    "LRC": [
+      {
+        "name": "Single Phase Motors",
+        "values": [
+          {
+            "hp": "1/2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "58.8"
+              },
+              {
+                "volts": "208",
+                "current": "32.5"
+              },
+              {
+                "volts": "230",
+                "current": "29.4"
+              }
+            ]
+          },
+          {
+            "hp": "3/4",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "82.8"
+              },
+              {
+                "volts": "208",
+                "current": "45.8"
+              },
+              {
+                "volts": "230",
+                "current": "41.4"
+              }
+            ]
+          },
+          {
+            "hp": "1",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "96"
+              },
+              {
+                "volts": "208",
+                "current": "53"
+              },
+              {
+                "volts": "230",
+                "current": "48"
+              }
+            ]
+          },
+          {
+            "hp": "1 1/2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "120"
+              },
+              {
+                "volts": "208",
+                "current": "66"
+              },
+              {
+                "volts": "230",
+                "current": "60"
+              }
+            ]
+          },
+          {
+            "hp": "2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "144"
+              },
+              {
+                "volts": "208",
+                "current": "80"
+              },
+              {
+                "volts": "230",
+                "current": "72"
+              }
+            ]
+          },
+          {
+            "hp": "3",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "204"
+              },
+              {
+                "volts": "208",
+                "current": "113"
+              },
+              {
+                "volts": "230",
+                "current": "102"
+              }
+            ]
+          },
+          {
+            "hp": "5",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "336"
+              },
+              {
+                "volts": "208",
+                "current": "186"
+              },
+              {
+                "volts": "230",
+                "current": "168"
+              }
+            ]
+          },
+          {
+            "hp": "7 1/2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "480"
+              },
+              {
+                "volts": "208",
+                "current": "265"
+              },
+              {
+                "volts": "230",
+                "current": "240"
+              }
+            ]
+          },
+          {
+            "hp": "10",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "600"
+              },
+              {
+                "volts": "208",
+                "current": "332"
+              },
+              {
+                "volts": "230",
+                "current": "300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Three Phase Motors",
+        "values": [
+          {
+            "hp": "1/2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "40"
+              },
+              {
+                "volts": "200",
+                "current": "23"
+              },
+              {
+                "volts": "208",
+                "current": "22.1"
+              },
+              {
+                "volts": "230",
+                "current": "20"
+              },
+              {
+                "volts": "460",
+                "current": "10"
+              },
+              {
+                "volts": "575",
+                "current": "8"
+              }
+            ]
+          },
+          {
+            "hp": "3/4",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "50"
+              },
+              {
+                "volts": "200",
+                "current": "28.8"
+              },
+              {
+                "volts": "208",
+                "current": "27.6"
+              },
+              {
+                "volts": "230",
+                "current": "25"
+              },
+              {
+                "volts": "460",
+                "current": "12.5"
+              },
+              {
+                "volts": "575",
+                "current": "10"
+              }
+            ]
+          },
+          {
+            "hp": "1",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "60"
+              },
+              {
+                "volts": "200",
+                "current": "34.5"
+              },
+              {
+                "volts": "208",
+                "current": "33"
+              },
+              {
+                "volts": "230",
+                "current": "30"
+              },
+              {
+                "volts": "460",
+                "current": "15"
+              },
+              {
+                "volts": "575",
+                "current": "12"
+              }
+            ]
+          },
+          {
+            "hp": "1 1/2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "80"
+              },
+              {
+                "volts": "200",
+                "current": "46"
+              },
+              {
+                "volts": "208",
+                "current": "44"
+              },
+              {
+                "volts": "230",
+                "current": "40"
+              },
+              {
+                "volts": "460",
+                "current": "20"
+              },
+              {
+                "volts": "575",
+                "current": "16"
+              }
+            ]
+          },
+          {
+            "hp": "2",
+            "voltage": [
+              {
+                "volts": "115",
+                "current": "100"
+              },
+              {
+                "volts": "200",
+                "current": "57.5"
+              },
+              {
+                "volts": "208",
+                "current": "55"
+              },
+              {
+                "volts": "230",
+                "current": "50"
+              },
+              {
+                "volts": "460",
+                "current": "25"
+              },
+              {
+                "volts": "575",
+                "current": "20"
+              }
+            ]
+          },
+          {
+            "hp": "3",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "73.6"
+              },
+              {
+                "volts": "208",
+                "current": "71"
+              },
+              {
+                "volts": "230",
+                "current": "64"
+              },
+              {
+                "volts": "460",
+                "current": "32"
+              },
+              {
+                "volts": "575",
+                "current": "25.6"
+              }
+            ]
+          },
+          {
+            "hp": "5",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "105.8"
+              },
+              {
+                "volts": "208",
+                "current": "102"
+              },
+              {
+                "volts": "230",
+                "current": "92"
+              },
+              {
+                "volts": "460",
+                "current": "46"
+              },
+              {
+                "volts": "575",
+                "current": "36.8"
+              }
+            ]
+          },
+          {
+            "hp": "7 1/2",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "146"
+              },
+              {
+                "volts": "208",
+                "current": "140"
+              },
+              {
+                "volts": "230",
+                "current": "127"
+              },
+              {
+                "volts": "460",
+                "current": "63.5"
+              },
+              {
+                "volts": "575",
+                "current": "50.8"
+              }
+            ]
+          },
+          {
+            "hp": "10",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "186.3"
+              },
+              {
+                "volts": "208",
+                "current": "179"
+              },
+              {
+                "volts": "230",
+                "current": "162"
+              },
+              {
+                "volts": "460",
+                "current": "81"
+              },
+              {
+                "volts": "575",
+                "current": "64.8"
+              }
+            ]
+          },
+          {
+            "hp": "15",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "267"
+              },
+              {
+                "volts": "208",
+                "current": "257"
+              },
+              {
+                "volts": "230",
+                "current": "232"
+              },
+              {
+                "volts": "460",
+                "current": "116"
+              },
+              {
+                "volts": "575",
+                "current": "93"
+              }
+            ]
+          },
+          {
+            "hp": "20",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "334"
+              },
+              {
+                "volts": "208",
+                "current": "321"
+              },
+              {
+                "volts": "230",
+                "current": "290"
+              },
+              {
+                "volts": "460",
+                "current": "145"
+              },
+              {
+                "volts": "575",
+                "current": "116"
+              }
+            ]
+          },
+          {
+            "hp": "25",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "420"
+              },
+              {
+                "volts": "208",
+                "current": "404"
+              },
+              {
+                "volts": "230",
+                "current": "365"
+              },
+              {
+                "volts": "460",
+                "current": "183"
+              },
+              {
+                "volts": "575",
+                "current": "146"
+              }
+            ]
+          },
+          {
+            "hp": "30",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "500"
+              },
+              {
+                "volts": "208",
+                "current": "481"
+              },
+              {
+                "volts": "230",
+                "current": "435"
+              },
+              {
+                "volts": "460",
+                "current": "218"
+              },
+              {
+                "volts": "575",
+                "current": "174"
+              }
+            ]
+          },
+          {
+            "hp": "40",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "667"
+              },
+              {
+                "volts": "208",
+                "current": "641"
+              },
+              {
+                "volts": "230",
+                "current": "580"
+              },
+              {
+                "volts": "460",
+                "current": "290"
+              },
+              {
+                "volts": "575",
+                "current": "232"
+              }
+            ]
+          },
+          {
+            "hp": "50",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "834"
+              },
+              {
+                "volts": "208",
+                "current": "802"
+              },
+              {
+                "volts": "230",
+                "current": "725"
+              },
+              {
+                "volts": "460",
+                "current": "363"
+              },
+              {
+                "volts": "575",
+                "current": "290"
+              }
+            ]
+          },
+          {
+            "hp": "60",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "1001"
+              },
+              {
+                "volts": "208",
+                "current": "962"
+              },
+              {
+                "volts": "230",
+                "current": "870"
+              },
+              {
+                "volts": "460",
+                "current": "435"
+              },
+              {
+                "volts": "575",
+                "current": "348"
+              }
+            ]
+          },
+          {
+            "hp": "75",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "1248"
+              },
+              {
+                "volts": "208",
+                "current": "1200"
+              },
+              {
+                "volts": "230",
+                "current": "1085"
+              },
+              {
+                "volts": "460",
+                "current": "543"
+              },
+              {
+                "volts": "575",
+                "current": "434"
+              }
+            ]
+          },
+          {
+            "hp": "100",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "1668"
+              },
+              {
+                "volts": "208",
+                "current": "1603"
+              },
+              {
+                "volts": "230",
+                "current": "1450"
+              },
+              {
+                "volts": "460",
+                "current": "725"
+              },
+              {
+                "volts": "575",
+                "current": "580"
+              }
+            ]
+          },
+          {
+            "hp": "125",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "2087"
+              },
+              {
+                "volts": "208",
+                "current": "2007"
+              },
+              {
+                "volts": "230",
+                "current": "1815"
+              },
+              {
+                "volts": "460",
+                "current": "908"
+              },
+              {
+                "volts": "575",
+                "current": "726"
+              }
+            ]
+          },
+          {
+            "hp": "150",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "2496"
+              },
+              {
+                "volts": "208",
+                "current": "2400"
+              },
+              {
+                "volts": "230",
+                "current": "2170"
+              },
+              {
+                "volts": "460",
+                "current": "1085"
+              },
+              {
+                "volts": "575",
+                "current": "868"
+              }
+            ]
+          },
+          {
+            "hp": "200",
+            "voltage": [
+              {
+                "volts": "200",
+                "current": "3335"
+              },
+              {
+                "volts": "208",
+                "current": "3207"
+              },
+              {
+                "volts": "230",
+                "current": "2900"
+              },
+              {
+                "volts": "460",
+                "current": "1450"
+              },
+              {
+                "volts": "575",
+                "current": "1160"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

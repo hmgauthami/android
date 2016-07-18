@@ -1,0 +1,1567 @@
+[
+  {
+    "FLC Calculator": [
+      {
+        "name": "Full-Load Current in Amperes - Direct Current Motors",
+        "HP": [
+          {
+            "name": "1/4",
+            "Armature Voltage Rating": [
+              {
+                "name": "90 V",
+                "value": 4
+              },
+              {
+                "name": "120 V",
+                "value": 3.1
+              },
+              {
+                "name": "180 V",
+                "value": 2
+              },
+              {
+                "name": "240 V",
+                "value": 1.6
+              }
+            ]
+          },
+          {
+            "name": "1/3",
+            "Armature Voltage Rating": [
+              {
+                "name": "90 V",
+                "value": 5.2
+              },
+              {
+                "name": "120 V",
+                "value": 2.4
+              },
+              {
+                "name": "180 V",
+                "value": 2.6
+              },
+              {
+                "name": "240 V",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "90 V",
+                "value": 6.8
+              },
+              {
+                "name": "120 V",
+                "value": 5.4
+              },
+              {
+                "name": "180 V",
+                "value": 3.4
+              },
+              {
+                "name": "240 V",
+                "value": 2.7
+              }
+            ]
+          },
+          {
+            "name": "3/4",
+            "Armature Voltage Rating": [
+              {
+                "name": "90 V",
+                "value": 9.6
+              },
+              {
+                "name": "120 V",
+                "value": 7.6
+              },
+              {
+                "name": "180 V",
+                "value": 4.8
+              },
+              {
+                "name": "240 V",
+                "value": 3.8
+              }
+            ]
+          },
+          {
+            "name": "1",
+            "Armature Voltage Rating": [
+              {
+                "name": "90 V",
+                "value": 12.2
+              },
+              {
+                "name": "120 V",
+                "value": 9.5
+              },
+              {
+                "name": "180 V",
+                "value": 6.1
+              },
+              {
+                "name": "240 V",
+                "value": 4.7
+              }
+            ]
+          },
+          {
+            "name": "1 1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 13.2
+              },
+              {
+                "name": "180 V",
+                "value": 8.3
+              },
+              {
+                "name": "240 V",
+                "value": 6.6
+              }
+            ]
+          },
+          {
+            "name": "2",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 17
+              },
+              {
+                "name": "180 V",
+                "value": 10.8
+              },
+              {
+                "name": "240 V",
+                "value": 8.5
+              }
+            ]
+          },
+          {
+            "name": "3",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 25
+              },
+              {
+                "name": "180 V",
+                "value": 16
+              },
+              {
+                "name": "240 V",
+                "value": 12.2
+              }
+            ]
+          },
+          {
+            "name": "5",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 40
+              },
+              {
+                "name": "180 V",
+                "value": 27
+              },
+              {
+                "name": "240 V",
+                "value": 20
+              }
+            ]
+          },
+          {
+            "name": "7 1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 58
+              },
+              {
+                "name": "240 V",
+                "value": 29
+              },
+              {
+                "name": "500 V",
+                "value": 13.6
+              },
+              {
+                "name": "550 V",
+                "value": 12.2
+              }
+            ]
+          },
+          {
+            "name": "10",
+            "Armature Voltage Rating": [
+              {
+                "name": "120 V",
+                "value": 76
+              },
+              {
+                "name": "240 V",
+                "value": 38
+              },
+              {
+                "name": "500 V",
+                "value": 18
+              },
+              {
+                "name": "550 V",
+                "value": 16
+              }
+            ]
+          },
+          {
+            "name": "15",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 55
+              },
+              {
+                "name": "500 V",
+                "value": 27
+              },
+              {
+                "name": "550 V",
+                "value": 24
+              }
+            ]
+          },
+          {
+            "name": "20",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 72
+              },
+              {
+                "name": "500 V",
+                "value": 34
+              },
+              {
+                "name": "550 V",
+                "value": 31
+              }
+            ]
+          },
+          {
+            "name": "25",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 89
+              },
+              {
+                "name": "500 V",
+                "value": 43
+              },
+              {
+                "name": "550 V",
+                "value": 38
+              }
+            ]
+          },
+          {
+            "name": "30",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 89
+              },
+              {
+                "name": "500 V",
+                "value": 43
+              },
+              {
+                "name": "550 V",
+                "value": 38
+              }
+            ]
+          },
+          {
+            "name": "40",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 140
+              },
+              {
+                "name": "500 V",
+                "value": 67
+              },
+              {
+                "name": "550 V",
+                "value": 61
+              }
+            ]
+          },
+          {
+            "name": "50",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 173
+              },
+              {
+                "name": "500 V",
+                "value": 83
+              },
+              {
+                "name": "550 V",
+                "value": 75
+              }
+            ]
+          },
+          {
+            "name": "60",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 206
+              },
+              {
+                "name": "500 V",
+                "value": 99
+              },
+              {
+                "name": "550 V",
+                "value": 90
+              }
+            ]
+          },
+          {
+            "name": "75",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 255
+              },
+              {
+                "name": "500 V",
+                "value": 123
+              },
+              {
+                "name": "550 V",
+                "value": 111
+              }
+            ]
+          },
+          {
+            "name": "100",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 341
+              },
+              {
+                "name": "500 V",
+                "value": 164
+              },
+              {
+                "name": "550 V",
+                "value": 148
+              }
+            ]
+          },
+          {
+            "name": "125",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 425
+              },
+              {
+                "name": "500 V",
+                "value": 205
+              },
+              {
+                "name": "550 V",
+                "value": 185
+              }
+            ]
+          },
+          {
+            "name": "150",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 506
+              },
+              {
+                "name": "500 V",
+                "value": 246
+              },
+              {
+                "name": "550 V",
+                "value": 222
+              }
+            ]
+          },
+          {
+            "name": "200",
+            "Armature Voltage Rating": [
+              {
+                "name": "240 V",
+                "value": 675
+              },
+              {
+                "name": "500 V",
+                "value": 330
+              },
+              {
+                "name": "550 V",
+                "value": 294
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Full-Load Current in Amperes: Single-Phase Alternating-Current Motors",
+        "HP": [
+          {
+            "name": "1/6",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 4.4
+              },
+              {
+                "name": "200 V",
+                "value": 2.5
+              },
+              {
+                "name": "208 V",
+                "value": 2.4
+              },
+              {
+                "name": "230 V",
+                "value": 2.2
+              }
+            ]
+          },
+          {
+            "name": "1/4",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 5.8
+              },
+              {
+                "name": "200 V",
+                "value": 3.3
+              },
+              {
+                "name": "208 V",
+                "value": 3.2
+              },
+              {
+                "name": "230 V",
+                "value": 2.9
+              }
+            ]
+          },
+          {
+            "name": "1/3",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 7.2
+              },
+              {
+                "name": "200 V",
+                "value": 4.1
+              },
+              {
+                "name": "208 V",
+                "value": 4
+              },
+              {
+                "name": "230 V",
+                "value": 3.6
+              }
+            ]
+          },
+          {
+            "name": "1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 9.8
+              },
+              {
+                "name": "200 V",
+                "value": 5.6
+              },
+              {
+                "name": "208 V",
+                "value": 5.4
+              },
+              {
+                "name": "230 V",
+                "value": 4.9
+              }
+            ]
+          },
+          {
+            "name": "3/4",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 13.8
+              },
+              {
+                "name": "200 V",
+                "value": 7.9
+              },
+              {
+                "name": "208 V",
+                "value": 7.6
+              },
+              {
+                "name": "230 V",
+                "value": 6.9
+              }
+            ]
+          },
+          {
+            "name": "1",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 16
+              },
+              {
+                "name": "200 V",
+                "value": 9.2
+              },
+              {
+                "name": "208 V",
+                "value": 8.8
+              },
+              {
+                "name": "230 V",
+                "value": 8
+              }
+            ]
+          },
+          {
+            "name": "1 1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 20
+              },
+              {
+                "name": "200 V",
+                "value": 11.5
+              },
+              {
+                "name": "208 V",
+                "value": 11
+              },
+              {
+                "name": "230 V",
+                "value": 10
+              }
+            ]
+          },
+          {
+            "name": "2",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 24
+              },
+              {
+                "name": "200 V",
+                "value": 13.8
+              },
+              {
+                "name": "208 V",
+                "value": 13.2
+              },
+              {
+                "name": "230 V",
+                "value": 12
+              }
+            ]
+          },
+          {
+            "name": "3",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 34
+              },
+              {
+                "name": "200 V",
+                "value": 19.6
+              },
+              {
+                "name": "208 V",
+                "value": 18.7
+              },
+              {
+                "name": "230 V",
+                "value": 17
+              }
+            ]
+          },
+          {
+            "name": "5",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 56
+              },
+              {
+                "name": "200 V",
+                "value": 32.2
+              },
+              {
+                "name": "208 V",
+                "value": 30.8
+              },
+              {
+                "name": "230 V",
+                "value": 28
+              }
+            ]
+          },
+          {
+            "name": "7 1/2",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 80
+              },
+              {
+                "name": "200 V",
+                "value": 46
+              },
+              {
+                "name": "208 V",
+                "value": 44
+              },
+              {
+                "name": "230 V",
+                "value": 40
+              }
+            ]
+          },
+          {
+            "name": "10",
+            "Armature Voltage Rating": [
+              {
+                "name": "115 V",
+                "value": 100
+              },
+              {
+                "name": "200 V",
+                "value": 57.5
+              },
+              {
+                "name": "208 V",
+                "value": 55
+              },
+              {
+                "name": "230 V",
+                "value": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Full-Load Current in Amperes - Three Phase Alternating Current Motors",
+        "type": [
+          {
+            "name": "Induction-Type Squirrel Cage and Wound Rotor (Amperes)",
+            "HP": [
+              {
+                "name": "1/2",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "115 V",
+                    "value": 4.4
+                  },
+                  {
+                    "name": "200 V",
+                    "value": 2.5
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 2.4
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 2.2
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 1.1
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 0.9
+                  }
+                ]
+              },
+              {
+                "name": "3/4",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "115 V",
+                    "value": 6.4
+                  },
+                  {
+                    "name": "200 V",
+                    "value": 3.7
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 3.5
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 3.2
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 1.6
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 1.3
+                  }
+                ]
+              },
+              {
+                "name": "1",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "115 V",
+                    "value": 8.4
+                  },
+                  {
+                    "name": "200 V",
+                    "value": 4.8
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 4.6
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 4.2
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 2.1
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 1.7
+                  }
+                ]
+              },
+              {
+                "name": "1 1/2",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "115 V",
+                    "value": 12
+                  },
+                  {
+                    "name": "200 V",
+                    "value": 6.9
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 6.6
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 6
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 3
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 2.4
+                  }
+                ]
+              },
+              {
+                "name": "2",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "115 V",
+                    "value": 13.6
+                  },
+                  {
+                    "name": "200 V",
+                    "value": 7.8
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 7.5
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 6.8
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 3.4
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 2.7
+                  }
+                ]
+              },
+              {
+                "name": "3",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 11
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 10.6
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 9.6
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 4.8
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 3.9
+                  }
+                ]
+              },
+              {
+                "name": "5",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 17.5
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 16.7
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 15.2
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 7.6
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 6.1
+                  }
+                ]
+              },
+              {
+                "name": "7 1/2",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 25.3
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 24.2
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 22
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 11
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 9
+                  }
+                ]
+              },
+              {
+                "name": "10",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 32.2
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 30.8
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 28
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 14
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 11
+                  }
+                ]
+              },
+              {
+                "name": "15",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 48.3
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 46.2
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 42
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 21
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 17
+                  }
+                ]
+              },
+              {
+                "name": "20",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 62.1
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 59.4
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 54
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 27
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 22
+                  }
+                ]
+              },
+              {
+                "name": "25",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 78.2
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 74.8
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 68
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 34
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 27
+                  }
+                ]
+              },
+              {
+                "name": "30",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 92
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 88
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 80
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 40
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 32
+                  }
+                ]
+              },
+              {
+                "name": "40",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 120
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 114
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 104
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 52
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 41
+                  }
+                ]
+              },
+              {
+                "name": "50",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 150
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 143
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 130
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 65
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 52
+                  }
+                ]
+              },
+              {
+                "name": "60",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 177
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 169
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 154
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 77
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 62
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 16
+                  }
+                ]
+              },
+              {
+                "name": "75",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 221
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 211
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 192
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 96
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 77
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "name": "100",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 285
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 273
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 248
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 124
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 99
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 26
+                  }
+                ]
+              },
+              {
+                "name": "125",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 359
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 343
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 312
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 156
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 125
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 31
+                  }
+                ]
+              },
+              {
+                "name": "150",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 414
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 396
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 360
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 180
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 144
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 37
+                  }
+                ]
+              },
+              {
+                "name": "200",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "200 V",
+                    "value": 552
+                  },
+                  {
+                    "name": "208 V",
+                    "value": 528
+                  },
+                  {
+                    "name": "230 V",
+                    "value": 480
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 240
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 192
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 49
+                  }
+                ]
+              },
+              {
+                "name": "250",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 302
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 242
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "name": "300",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 361
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 289
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 72
+                  }
+                ]
+              },
+              {
+                "name": "350",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 414
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 336
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 83
+                  }
+                ]
+              },
+              {
+                "name": "400",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 477
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 382
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 95
+                  }
+                ]
+              },
+              {
+                "name": "450",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 515
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 412
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 103
+                  }
+                ]
+              },
+              {
+                "name": "500",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "460 V",
+                    "value": 590
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 472
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 118
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Synchronous-Type Unity Power Factor (Amperes)",
+            "HP": [
+              {
+                "name": "25",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 53
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 26
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 21
+                  }
+                ]
+              },
+              {
+                "name": "30",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 63
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 32
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 26
+                  }
+                ]
+              },
+              {
+                "name": "40",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 83
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 41
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 33
+                  }
+                ]
+              },
+              {
+                "name": "50",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 104
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 52
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 42
+                  }
+                ]
+              },
+              {
+                "name": "60",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 123
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 61
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 49
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 12
+                  }
+                ]
+              },
+              {
+                "name": "75",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 155
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 78
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 62
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 15
+                  }
+                ]
+              },
+              {
+                "name": "100",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 202
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 101
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 81
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "name": "125",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 253
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 126
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 101
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 25
+                  }
+                ]
+              },
+              {
+                "name": "150",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 302
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 151
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 121
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "name": "200",
+                "Armature Voltage Rating": [
+                  {
+                    "name": "230 V",
+                    "value": 400
+                  },
+                  {
+                    "name": "460 V",
+                    "value": 201
+                  },
+                  {
+                    "name": "575 V",
+                    "value": 161
+                  },
+                  {
+                    "name": "2300 V",
+                    "value": 40
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

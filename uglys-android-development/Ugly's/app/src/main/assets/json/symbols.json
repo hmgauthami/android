@@ -1,0 +1,86 @@
+[
+  {
+    "Symbols": [
+      {
+        "name": "Wall",
+        "image": "ch00_unnun051_1"
+      },
+      {
+        "name": "Ceiling",
+        "image": "ch00_unnun051_2"
+      },
+      {
+        "name": "Switch Outlets",
+        "image": ""
+      },
+      {
+        "name": "Transformers",
+        "image": "ch00_unnun052_1"
+      },
+      {
+        "name": "AC Motors",
+        "image": "ch00_unnun052_2"
+      },
+      {
+        "name": "DC Motors",
+        "image": "ch00_unnun052_3"
+      },
+      {
+        "name": "Wiring",
+        "image": "ch00_unnun052_6"
+      },
+      {
+        "name": "Resistors",
+        "image": "ch00_unnun052_4"
+      },
+      {
+        "name": "Capacitors",
+        "image": "ch00_unnun052_5"
+      },
+      {
+        "name": "Connections",
+        "image": "ch00_unnun052_7"
+      },
+      {
+        "name": "Supplementary Contact",
+        "image": "ch00_unnun052_8"
+      },
+      {
+        "name": "Miscellaneous",
+        "image": "ch00_unnun052_10"
+      },
+      {
+        "name": "Terms",
+        "image": "ch00_unnun052_9"
+      },
+      {
+        "name": "Switches",
+        "image": "ch00_unnun053_1"
+      },
+      {
+        "name": "Selectors",
+        "image": "ch00_unnun053_4"
+      },
+      {
+        "name": "Push Buttons",
+        "image": "ch00_unnun053_2"
+      },
+      {
+        "name": "Pilot Lights",
+        "image": "ch00_unnun053_3"
+      },
+      {
+        "name": "Coils",
+        "image": "ch00_unnun053_5"
+      },
+      {
+        "name": "Overload Relays",
+        "image": "ch00_unnun053_6"
+      },
+      {
+        "name": "Contacts",
+        "image": "ch00_unnun053_7"
+      }
+    ]
+  }
+]

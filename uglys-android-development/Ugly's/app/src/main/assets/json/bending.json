@@ -1,0 +1,61 @@
+[
+  {
+    "Bending": [
+      {
+        "Name": "90° Bend",
+        "type": 6,
+        "image":""
+      },
+      {
+        "Name": "Back to Back Bends",
+        "type": 7,
+        "image":"back_to_back_bends"
+      },
+      {
+        "Name": "Bending Offsets With Trigonometry",
+        "type": 11,
+        "image":"bending_offsets_with_trigonometry"
+      },
+      {
+        "Name": "Offset Bends",
+        "type": 5,
+        "image":"offset_bends"
+      },
+      {
+        "Name": "Box Offset",
+        "type": 1,
+        "image":""
+      },
+      {
+        "Name": "Rolling Offset",
+        "type": 10,
+        "image":""
+      },
+      {
+        "Name": "Three-Point Saddle Bends",
+        "type": 8,
+        "image":"three_point_saddle_bends"
+      },
+      {
+        "Name": "Four-Point Saddle Bends",
+        "type": 9,
+        "image":""
+      },
+      {
+        "Name": "Multishot: 90° Conduit bending",
+        "type": 4,
+        "image":"multishot_bending"
+      },
+      {
+        "Name": "Chicago type benders: 90° Bending",
+        "type": 2,
+        "image":"chicago_type_90_degree_bends"
+      },
+      {
+        "Name": "Chicago type benders: Offsets",
+        "type": 3,
+        "image":"chicago_type_offset_bends_part_1"
+      }
+    ]
+  }
+]

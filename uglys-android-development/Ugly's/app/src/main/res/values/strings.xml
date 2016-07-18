@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">UGLY\'S</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="copyright_text">© Ugly\'s 2016</string>
+
+    <string name="set_up_back">Use the back button at any point to return to the previous screen.</string>
+    <string name="set_up_bookmark">Tap this icon to bookmark the screen you\'re on and save it in your Bookmarks list. Tap again to remove the bookmark.</string>
+    <string name="set_up_home">This will take you back to the home screen.</string>
+    <string name="set_up_menu"> The menu is where you can access you bookmarks and settings for the app, including your preferred text size.</string>
+    <string name="next">NEXT</string>
+    <string name="exit">EXIT TUTORIAL</string>
+
+    <string name="main_menu_topics">Topics</string>
+    <string name="main_menu_calculators">Calculations</string>
+    <string name="main_menu_bookmarks">Bookmarks</string>
+    <string name="main_menu_symbols">Symbols</string>
+    <string name="main_menu_conversions">Conversions</string>
+    <string name="main_menu_bending">Bending</string>
+    <string name="main_menu_safety">Safety</string>
+    <string name="main_menu_nec">NEC Updates</string>
+    <string name="home_screen">Home</string>
+    <string name="title_activity_topics_screen">Topics</string>
+
+    <string name="left">&lt;&lt;</string>
+    <string name="right">&gt;&gt;</string>
+
+    <string name="title_activity_safety">Safety</string>
+
+    <string name="title_activity_bookmarks">Bookmarks</string>
+
+    <string name="title_activity_conversions">Conversions</string>
+    <string name="spinner_default">-SELECT-</string>
+    <string name="book_name1">Link to Book:</string>
+    <string name="book_location">Ugly\'s Electrical References, 2014 Edition</string>
+
+    <string name="title_activity_calculator_list">Calculations</string>
+
+    <string name="title_activity_symbols">Symbols</string>
+    <string name="symbols_heading">Select the category of symbol you\'re looking for:</string>
+    <string name="symbol_validation">Please Select a Symbol</string>
+
+
+    <string name="epub">epub</string>
+    <string name="calculator">calculator</string>
+    <string name="interactive">interactive</string>
+    <string name="table">table</string>
+
+    <string name="title_activity_bending">Conduit Bends</string>
+    <string name="bending_header">How To\'s for all kinds of conduit bending</string>
+
+    <string name="title_activity_ohms_law_calculator">Ohm\'s Law Calculator</string>
+    <string name="ohms_calculator_header">Select the portion of the chart that contains the units you\'re looking for:</string>
+    <string name="find">Find</string>
+    <string name="from">from</string>
+    <string name="and">and</string>
+    <string name="sqr_root">√¯¯</string>
+    <string name="sqr_root1">√</string>
+
+    <string name="title_activity_to_find_calculator">To Find: Amps, Watts, Horsepower, KVA</string>
+    <string name="tofind_calculator_header">Find Amperes, Watts, KVA, or Horsepower</string>
+    <string name="spinner_to_find_default">-TO FIND-</string>
+    <string name="spinner_current_type_default">-CURRENT TYPE-</string>
+    <string name="to_find_result_header">RESULT</string>
+    <string name="spinner_known_value_default">-KNOWN VALUES-</string>
+
+
+    <string name="title_activity_to_find2_calculator">To Find: Capacitance, Inductance, Reactance</string>
+    <string name="coil_count_header">Enter Number of Coils: </string>
+    <string name="coil_count_validation">Maximum number of coils can be 5</string>
+
+    <string name="title_activity_bending_steps">BendingStepsActivity</string>
+    <string name="show_instructions">Show instructions</string>
+    <string name="No">NO</string>
+    <string name="Yes">YES</string>
+
+    <string name="title_activity_ampacity_calculator">Simple Ampacity Calculator</string>
+    <string name="spinner_ampacity_ambient_temp_default">-SELECT AMBIENT AIR TEMPERATURE-</string>
+    <string name="spinner_ampacity_wire_location_default">-SELECT WIRE LOCATION-</string>
+    <string name="spinner_ampacity_conductor_type_default">-SELECT CONDUCTOR TYPE-</string>
+    <string name="spinner_ampacity_wire_insulation_default">-WIRE INSULATION RATING-</string>
+    <string name="spinner_ampacity_wire_size_default">-SELECT WIRE SIZE -</string>
+    <string name="amp_cal_info_text1">Allowable Ampacities of Insulated Conductors Rated upto and Including 2000 Volts,
+    60° Through 90°, Not more than Three Current-Carrying Conductors in Raceway, Cable or Earth, Based on Ambient Air Temperature
+    of 30°C</string>
+    <string name="amp_cal_info_text2">Allowable Ampacities of Single-Insulated Conductors Rated upto and Including 2000 Volts
+    in Free Air Based on Ambient Air Temperature of 30°C</string>
+    <string name="amp_cal_info_text3">Allowable Ampacities of Insulated Conductors Rated upto and Including 2000 Volts,
+    150° Through 250°, Not more than Three Current-Carrying Conductors in Raceway or Cable, Based on Ambient Air Temperature
+    of 40°C</string>
+    <string name="amp_cal_info_text4">Allowable Ampacities of Single-Insulated Conductors Rated upto and Including 2000 Volts,
+        150° Through 250° in Free Air, Based on Ambient Air Temperature of 40°C</string>
+
+    <string name="font_size">Font Size</string>
+
+    <string name="title_activity_offset_bending_calculator">Offset Bending</string>
+    <string name="offset_bending_calculator_bend_distance">Determine distance between bends</string>
+    <string name="offset_bending_calculator_bend_angle">Enter your bend angle:</string>
+    <string name="angle">ANGLE</string>
+    <string name="multiplier_header">MULTIPLIER</string>
+    <string name="angle1">10°</string>
+    <string name="angle2">22 1/2°</string>
+    <string name="angle3">30°</string>
+    <string name="angle4">45°</string>
+    <string name="angle5">60°</string>
+    <string name="offset">OFFSET DEPTH</string>
+    <string name="result">RESULT</string>
+    <string name="angle_validation">Please Enter Angle in Range Greater than 0 to 90</string>
+    <string name="angle_hint">1 to 90 degrees</string>
+    <string name="result1">Distance Between Bends:</string>
+    <string name="result2">Shrink:</string>
+    <string name="unit">\"</string>
+    <string name="table_header">Common Bending Angles</string>
+    <string name="table_footer">Angle Multipliers</string>
+
+
+    <string name="bookmark_validation">Please select all value to add bookmark</string>
+
+    <string name="title_activity_pf_correction_calculator">PF Correction Calculator</string>
+    <string name="pf">Power Factor =</string>
+    <string name="spinner_epf_default">-SELECT EXISTING POWER FACTOR %-</string>
+    <string name="spinner_cpf_default">-SELECT CORRECTED POWER FACTOR -</string>
+
+    <string name="title_activity_conduit_fill_calculator">Conduit Fill Calculator</string>
+    <string name="spinner_conduit_type_default">-SELECT RACEWAY-</string>
+    <string name="spinner_wire_type_default">-SELECT INSULATION-</string>
+    <string name="spinner_conductor_size_default">-CONDUCTOR SIZE-</string>
+    <string name="conduit_fill_info">Types RHH, RHW, and RHW-2 without outer covering</string>
+    <string name="conduit_fill_validation">Please Select Type Of Conduit</string>
+    <string name="wire_count_header">Enter Number of wires: </string>
+    <string name="fill_value">Select Fill Value: </string>
+    <string name="wire_count_validation">Maximum number of wires can be 5</string>
+    <string name="radio1">Auto</string>
+    <string name="radio2">60 percent(nipple)</string>
+    <string name="no_of_conductors">Enter No. Of Conductors</string>
+    <string name="wire_area">Wire Area</string>
+    <string name="total_area">Total Area</string>
+    <string name="conductor_size_validation">Total conductor area exceeds maximum allowed size for selected raceway</string>
+
+    <string name="title_activity_flc_motor_calculator">FLC Calculator</string>
+    <string name="spinner_flc_default">-SELECT FLC CALCULATOR-</string>
+    <string name="spinner_flc_type_default">-SELECT THREE PHASE TYPE CALCULATOR-</string>
+    <string name="spinner_flc__HP_default">-SELECT MOTOR HORSEPOWER-</string>
+    <string name="spinner_flc__voltage_default">-SELECT VOLTAGE-</string>
+    <string name="flc_motor_validation">Please Select FLC Calculator</string>
+    <string name="flc_info1">For 90\%% and 80\%% power factor, the figures shall be multiplied by 1.1 and 1.25, respectively</string>
+    <string name="flc_info2">The voltages listed are rated motor voltages. The currents listed shall be permitted for system voltage ranges of 110 to 120 and 220 to 240 volts.</string>
+    <string name="flc_info3">These values of full-load currents are for motors running at base speed.These are average dc quantities.</string>
+
+    <string name="title_activity_flc_motor_other_data_calculator">Three-phase AC motor data: Starter, Breaker, Heater, Wire, and Conduit size</string>
+    <string name="info1">Overcurrent device may have to be increased due to starting current and load conditions. See NEC 430.52, Table 430.52. Wire size based on 75˚C (167°F) terminations and 75°C(167°F) insulation.</string>
+    <string name="info2">Overload heater must be based on motor nameplate and sized per NEC 430.32.</string>
+    <string name="info3">Conduit size based on rigid metal conduit with some spare capacity. For minimum size and other conduit types, see NEC Appendix C, or Ugly’s pages 83–103.</string>
+
+    <string name="title_activity_flc_transformer_calculator">FLC-Transformers Calculator</string>
+    <string name="spinner_kva_default">-SELECT KVA RATING-</string>
+
+    <string name="title_activity_search">Search</string>
+
+    <string name="title_activity_lrc_calculator">Locked-Rotor Current Calculator</string>
+    <string name="lrc_calculator">Locked-Rotor Current = </string>
+    <string name="lrc_calculator_type_default">-SELECT LOCKED-ROTOR CURRENT TYPE-</string>
+    <string name="lrc_calculator_hp_default">-SELECT HP-</string>
+    <string name="lrc_calculator_voltage_default">-SELECT VOLTAGE-</string>
+    <string name="lrc_validation">Please Select Type Of Motor</string>
+    <string name="lrc_info">Design A motors are not limited to a maximum starting current or locked-rotor current.</string>
+
+
+    <string name="title_activity_voltage_drop_calculator">Voltage Drop Calculator</string>
+    <string name="voltage_drop_calculator">Vd = </string>
+    <string name="voltage_drop_calculator1">Percentage Voltage = </string>
+    <string name="voltage_drop_calculator2">Voltage at Load = </string>
+    <string name="voltage_drop_calculator_type_default">-SELECT CIRCUIT TYPE-</string>
+    <string name="voltage_drop_calculator_type1">Single-Phase Circuits</string>
+    <string name="voltage_drop_calculator_type2">Three-Phase Circuits</string>
+    <string name="voltage_drop_wire_size_default">-SELECT WIRE SIZE-</string>
+    <string name="voltage_drop_wire_conductor_type_default">-SELECT CONDUCTOR TYPE-</string>
+    <string name="voltage_drop_wire_conductor_type1">-Copper Conductors-</string>
+    <string name="voltage_drop_wire_conductor_type2">-Aluminium Conductors-</string>
+    <string name="voltage_drop_validation">Please Select Type Of Circuit</string>
+    <string name="voltage_drop_calculator_current">Current in Conductor (Amperes)</string>
+    <string name="voltage_drop_calculator_length">One-way Length of Circuit (Feet)</string>
+    <string name="lrc_calculator_voltage">E (Volts)</string>
+
+    <string name="title_wiring_diagram_interactive">Wiring Diagrams for NEMA Configurations</string>
+    <string name="spinner_poles_default">-NUMBER OF POLES-</string>
+    <string name="spinner_wires_default">-NUMBER OF WIRES-</string>
+    <string name="spinner_grounding_default">-GROUNDING TYPE-</string>
+    <string name="spinner_voltage_default">-VOLTAGE-</string>
+    <string name="spinner_phase_default">-SELECT PHASE-</string>
+
+
+</resources>

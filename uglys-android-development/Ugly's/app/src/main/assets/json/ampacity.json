@@ -1,0 +1,3554 @@
+[
+  {
+    "Ampacity": [
+      {
+        "Ambient Temperature": "30° C",
+        "Wire Location": [
+          {
+            "name": "Raceway, Cable or Earth",
+            "Conductor Type": [
+              {
+                "name": "Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "15"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "70"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "110"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "125"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "215"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "240"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "400"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "410"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "495"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "525"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "555"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "200"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "255"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "285"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "335"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "380"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "420"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "460"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "475"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "490"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "590"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "625"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "650"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "665"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "290"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "380"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "430"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "475"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "535"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "555"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "585"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "665"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "705"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "735"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "750"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "15"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "210"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "285"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "330"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "470"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "90"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "120"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "155"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "180"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "250"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "270"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "340"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "560"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "305"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "480"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "630"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel-Coated Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "15"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "70"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "110"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "125"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "215"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "240"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "400"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "410"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "495"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "525"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "555"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "200"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "255"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "285"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "335"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "380"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "420"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "460"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "475"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "490"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "590"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "625"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "650"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "665"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "290"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "380"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "430"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "475"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "535"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "555"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "585"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "665"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "705"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "735"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "750"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Copper-Clad Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "15"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "210"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "285"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "320"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "330"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "470"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "20"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "65"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "90"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "120"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "155"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "180"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "250"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "270"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "340"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "520"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "560"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "305"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "385"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "435"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "480"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "630"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Free Air",
+            "Conductor Type": [
+              {
+                "name": "Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "105"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "120"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "140"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "300"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "340"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "420"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "515"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "575"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "630"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "655"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "680"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "730"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "780"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "890"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "980"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1070"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1155"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "70"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "125"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "265"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "360"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "505"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "620"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "690"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "755"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "785"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "815"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "870"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "935"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "1065"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1175"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1280"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1385"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "105"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "140"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "190"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "220"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "300"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "570"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "780"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "850"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "885"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "920"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "980"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "1055"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "1200"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1325"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1445"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1560"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "110"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "200"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "235"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "265"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "290"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "330"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "515"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "535"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "580"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "625"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "710"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "795"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "875"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "960"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "155"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "180"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "210"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "240"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "540"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "595"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "620"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "645"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "750"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "855"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "950"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1050"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1150"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "235"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "270"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "480"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "670"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "725"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "790"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "845"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "965"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1070"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1185"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1295"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel-Coated Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "105"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "120"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "140"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "225"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "300"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "340"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "375"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "420"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "515"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "575"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "630"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "655"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "680"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "730"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "780"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "890"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "980"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1070"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1155"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "50"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "70"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "125"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "195"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "230"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "265"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "310"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "360"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "505"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "620"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "690"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "755"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "785"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "815"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "870"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "935"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "1065"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1175"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1280"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1385"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "105"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "140"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "190"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "220"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "300"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "570"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "780"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "850"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "885"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "920"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "980"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "1055"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "1200"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1325"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1445"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1560"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Copper-Clad Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "60° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "25"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "95"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "110"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "200"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "235"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "265"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "290"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "330"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "405"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "455"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "500"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "515"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "535"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "580"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "625"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "710"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "795"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "875"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "960"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "75° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "40"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "100"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "135"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "155"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "180"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "210"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "240"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "280"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "350"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "425"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "485"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "540"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "595"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "620"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "645"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "750"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "855"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "950"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1050"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1150"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "90° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "35"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "85"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "115"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "130"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "150"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "175"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "235"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "270"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "315"
+                      },
+                      {
+                        "name": "250",
+                        "ampacity": "355"
+                      },
+                      {
+                        "name": "300",
+                        "ampacity": "395"
+                      },
+                      {
+                        "name": "350",
+                        "ampacity": "445"
+                      },
+                      {
+                        "name": "400",
+                        "ampacity": "480"
+                      },
+                      {
+                        "name": "500",
+                        "ampacity": "545"
+                      },
+                      {
+                        "name": "600",
+                        "ampacity": "615"
+                      },
+                      {
+                        "name": "700",
+                        "ampacity": "670"
+                      },
+                      {
+                        "name": "750",
+                        "ampacity": "700"
+                      },
+                      {
+                        "name": "800",
+                        "ampacity": "725"
+                      },
+                      {
+                        "name": "900",
+                        "ampacity": "790"
+                      },
+                      {
+                        "name": "1000",
+                        "ampacity": "845"
+                      },
+                      {
+                        "name": "1250",
+                        "ampacity": "965"
+                      },
+                      {
+                        "name": "1500",
+                        "ampacity": "1070"
+                      },
+                      {
+                        "name": "1750",
+                        "ampacity": "1185"
+                      },
+                      {
+                        "name": "2000",
+                        "ampacity": "1295"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Ambient Temperature": "40° C",
+        "Wire Location": [
+          {
+            "name": "Raceway or Cable",
+            "Conductor Type": [
+              {
+                "name": "Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "34"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "43"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "55"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "76"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "96"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "120"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "143"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "160"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "186"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "215"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "251"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "288"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "332"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "200° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "36"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "45"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "83"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "110"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "125"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "152"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "171"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "197"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "229"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "260"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "297"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "346"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel",
+                "Wire Insulation": [
+                  {
+                    "name": "250° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "39"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "54"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "73"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "93"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "117"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "148"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "166"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "191"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "215"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "244"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "273"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "308"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "361"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel-Coated Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "250° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "39"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "54"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "73"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "93"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "117"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "148"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "166"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "191"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "215"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "244"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "273"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "308"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "361"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Copper-Clad Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "44"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "57"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "94"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "109"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "124"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "169"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "198"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "227"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "260"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "30"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "44"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "57"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "75"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "94"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "109"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "124"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "145"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "169"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "198"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "227"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "260"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Free air",
+            "Conductor Type": [
+              {
+                "name": "Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "46"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "60"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "80"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "106"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "155"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "190"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "214"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "255"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "293"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "339"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "390"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "451"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "529"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "200° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "54"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "68"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "90"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "124"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "165"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "220"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "252"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "293"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "344"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "399"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "467"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "546"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "629"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel",
+                "Wire Insulation": [
+                  {
+                    "name": "250° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "59"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "78"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "107"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "142"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "278"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "327"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "381"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "440"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "532"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "591"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "708"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "830"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nickel-Coated Copper",
+                "Wire Insulation": [
+                  {
+                    "name": "250° C",
+                    "Wire Size": [
+                      {
+                        "name": "14",
+                        "ampacity": "59"
+                      },
+                      {
+                        "name": "12",
+                        "ampacity": "78"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "107"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "142"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "205"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "278"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "327"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "381"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "440"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "532"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "591"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "708"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "830"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "47"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "63"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "83"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "112"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "148"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "198"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "228"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "263"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "305"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "351"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "411"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Copper-Clad Aluminium",
+                "Wire Insulation": [
+                  {
+                    "name": "150° C",
+                    "Wire Size": [
+                      {
+                        "name": "12",
+                        "ampacity": "47"
+                      },
+                      {
+                        "name": "10",
+                        "ampacity": "63"
+                      },
+                      {
+                        "name": "8",
+                        "ampacity": "83"
+                      },
+                      {
+                        "name": "6",
+                        "ampacity": "112"
+                      },
+                      {
+                        "name": "4",
+                        "ampacity": "148"
+                      },
+                      {
+                        "name": "3",
+                        "ampacity": "170"
+                      },
+                      {
+                        "name": "2",
+                        "ampacity": "198"
+                      },
+                      {
+                        "name": "1",
+                        "ampacity": "228"
+                      },
+                      {
+                        "name": "1/0",
+                        "ampacity": "263"
+                      },
+                      {
+                        "name": "2/0",
+                        "ampacity": "305"
+                      },
+                      {
+                        "name": "3/0",
+                        "ampacity": "351"
+                      },
+                      {
+                        "name": "4/0",
+                        "ampacity": "411"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

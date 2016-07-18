@@ -1,0 +1,864 @@
+[
+  {
+    "Conduit Fill": [
+      {
+        "name": "Electric Metallic Tubing (EMT)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.094,
+            "over two wires": 0.122,
+            "1 wire": 0.161,
+            "nipple": 0.182
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.165,
+            "over two wires": 0.213,
+            "1 wire": 0.283,
+            "nipple": 0.320
+          },
+          {
+            "name": "1",
+            "two wires": 0.268,
+            "over two wires": 0.346,
+            "1 wire": 0.458,
+            "nipple": 0.519
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.464,
+            "over two wires": 0.598,
+            "1 wire": 0.793,
+            "nipple": 0.897
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.631,
+            "over two wires": 0.814,
+            "1 wire": 0.079,
+            "nipple": 0.221
+          },
+          {
+            "name": "2",
+            "two wires": 1.040,
+            "over two wires": 1.342,
+            "1 wire": 1.778,
+            "nipple": 2.013
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.816,
+            "over two wires": 2.343,
+            "1 wire": 3.105,
+            "nipple": 3.515
+          },
+          {
+            "name": "3",
+            "two wires": 2.742,
+            "over two wires": 3.538,
+            "1 wire": 4.688,
+            "nipple": 5.307
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.579,
+            "over two wires": 4.618,
+            "1 wire": 6.119,
+            "nipple": 6.927
+          },
+          {
+            "name": "4",
+            "two wires": 4.573,
+            "over two wires": 5.901,
+            "1 wire": 7.819,
+            "nipple": 8.852
+          }
+        ]
+      },
+      {
+        "name": "Electric NonMetallic Tubing (ENT)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.076,
+            "over two wires": 0.099,
+            "1 wire": 0.131,
+            "nipple": 0.148
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.141,
+            "over two wires": 0.181,
+            "1 wire": 0.240,
+            "nipple": 0.272
+          },
+          {
+            "name": "1",
+            "two wires": 0.243,
+            "over two wires": 0.314,
+            "1 wire": 0.416,
+            "nipple": 0.471
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.437,
+            "over two wires": 0.564,
+            "1 wire": 0.747,
+            "nipple": 0.846
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.600,
+            "over two wires": 0.774,
+            "1 wire": 1.026,
+            "nipple": 1.162
+          },
+          {
+            "name": "2",
+            "two wires": 0.993,
+            "over two wires": 1.282,
+            "1 wire": 1.699,
+            "nipple": 1.923
+          }
+        ]
+      },
+      {
+        "name": "Flexible Metal Conduit (FMC)",
+        "trade size": [
+          {
+            "name": "3/8",
+            "two wires": 0.036,
+            "over two wires": 0.046,
+            "1 wire": 0.061,
+            "nipple": 0.069
+          },
+          {
+            "name": "1/2",
+            "two wires": 0.098,
+            "over two wires": 0.127,
+            "1 wire": 0.168,
+            "nipple": 0.190
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.165,
+            "over two wires": 0.213,
+            "1 wire": 0.283,
+            "nipple": 0.320
+          },
+          {
+            "name": "1",
+            "two wires": 0.253,
+            "over two wires": 0.327,
+            "1 wire": 0.433,
+            "nipple": 0.490
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.396,
+            "over two wires": 0.511,
+            "1 wire": 0.677,
+            "nipple": 0.766
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.576,
+            "over two wires": 0.743,
+            "1 wire": 0.985,
+            "nipple": 1.115
+          },
+          {
+            "name": "2",
+            "two wires": 1.013,
+            "over two wires": 1.307,
+            "1 wire": 1.732,
+            "nipple": 1.961
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.522,
+            "over two wires": 1.963,
+            "1 wire": 2.602,
+            "nipple": 2.945
+          },
+          {
+            "name": "3",
+            "two wires": 2.191,
+            "over two wires": 2.827,
+            "1 wire": 3.746,
+            "nipple": 4.241
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 2.983,
+            "over two wires": 3.848,
+            "1 wire": 5.099,
+            "nipple": 5.773
+          },
+          {
+            "name": "4",
+            "two wires": 3.896,
+            "over two wires": 5.027,
+            "1 wire": 6.660,
+            "nipple": 7.540
+          }
+        ]
+      },
+      {
+        "name": "Intermediate Metal Conduit (IMC)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.101,
+            "over two wires": 0.137,
+            "1 wire": 0.181,
+            "nipple": 0.205
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.182,
+            "over two wires": 0.235,
+            "1 wire": 0.311,
+            "nipple": 0.352
+          },
+          {
+            "name": "1",
+            "two wires": 0.297,
+            "over two wires": 0.384,
+            "1 wire": 0.508,
+            "nipple": 0.575
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.510,
+            "over two wires": 0.659,
+            "1 wire": 0.873,
+            "nipple": 0.988
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.690,
+            "over two wires": 0.890,
+            "1 wire": 1.179,
+            "nipple": 1.335
+          },
+          {
+            "name": "2",
+            "two wires": 1.125,
+            "over two wires": 1.452,
+            "1 wire": 1.924,
+            "nipple": 2.178
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.592,
+            "over two wires": 2.054,
+            "1 wire": 1.722,
+            "nipple": 3.081
+          },
+          {
+            "name": "3",
+            "two wires": 2.456,
+            "over two wires": 3.169,
+            "1 wire": 4.199,
+            "nipple": 4.753
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.281,
+            "over two wires": 4.234,
+            "1 wire": 5.610,
+            "nipple": 6.351
+          },
+          {
+            "name": "4",
+            "two wires": 4.226,
+            "over two wires": 5.452,
+            "1 wire": 7.224,
+            "nipple": 8.179
+          }
+        ]
+      },
+      {
+        "name": "LiquidTight Flexible NonMetallic Conduit (TYPE LFNC-B)",
+        "trade size": [
+          {
+            "name": "3/8",
+            "two wires": 0.059,
+            "over two wires": 0.077,
+            "1 wire": 0.102,
+            "nipple": 0.115
+          },
+          {
+            "name": "1/2",
+            "two wires": 0.097,
+            "over two wires": 0.125,
+            "1 wire": 0.166,
+            "nipple": 0.188
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.168,
+            "over two wires": 0.216,
+            "1 wire": 0.287,
+            "nipple": 0.325
+          },
+          {
+            "name": "1",
+            "two wires": 0.270,
+            "over two wires": 0.349,
+            "1 wire": 0.462,
+            "nipple": 0.524
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.474,
+            "over two wires": 0.611,
+            "1 wire": 0.810,
+            "nipple": 0.917
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.614,
+            "over two wires": 0.792,
+            "1 wire": 1.050,
+            "nipple": 1.188
+          },
+          {
+            "name": "2",
+            "two wires": 1.006,
+            "over two wires": 1.298,
+            "1 wire": 1.720,
+            "nipple": 1.948
+          }
+        ]
+      },
+      {
+        "name": "LiquidTight Flexible NonMetallic Conduit (TYPE LFNC-A)",
+        "trade size": [
+          {
+            "name": "3/8",
+            "two wires": 0.060,
+            "over two wires": 0.077,
+            "1 wire": 0.102,
+            "nipple": 0.115
+          },
+          {
+            "name": "1/2",
+            "two wires": 0.097,
+            "over two wires": 0.125,
+            "1 wire": 0.165,
+            "nipple": 0.187
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.166,
+            "over two wires": 0.214,
+            "1 wire": 0.283,
+            "nipple": 0.321
+          },
+          {
+            "name": "1",
+            "two wires": 0.265,
+            "over two wires": 0.342,
+            "1 wire": 0.453,
+            "nipple": 0.513
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.466,
+            "over two wires": 0.601,
+            "1 wire": 0.796,
+            "nipple": 0.901
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.626,
+            "over two wires": 0.807,
+            "1 wire": 1.070,
+            "nipple": 1.211
+          },
+          {
+            "name": "2",
+            "two wires": 1.036,
+            "over two wires": 1.337,
+            "1 wire": 1.772,
+            "nipple": 2.006
+          }
+        ]
+      },
+      {
+        "name": "LiquidTight Flexible Metal Conduit (LFMC)",
+        "trade size": [
+          {
+            "name": "3/8",
+            "two wires": 0.059,
+            "over two wires": 0.077,
+            "1 wire": 0.102,
+            "nipple": 0.115
+          },
+          {
+            "name": "1/2",
+            "two wires": 0.097,
+            "over two wires": 0.125,
+            "1 wire": 0.166,
+            "nipple": 0.188
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.168,
+            "over two wires": 0.216,
+            "1 wire": 0.287,
+            "nipple": 0.325
+          },
+          {
+            "name": "1",
+            "two wires": 0.270,
+            "over two wires": 0.349,
+            "1 wire": 0.462,
+            "nipple": 0.424
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.474,
+            "over two wires": 0.611,
+            "1 wire": 0.810,
+            "nipple": 0.917
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.614,
+            "over two wires": 0.792,
+            "1 wire": 1.050,
+            "nipple": 1.188
+          },
+          {
+            "name": "2",
+            "two wires": 1.006,
+            "over two wires": 1.298,
+            "1 wire": 1.720,
+            "nipple": 1.948
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.513,
+            "over two wires": 1.953,
+            "1 wire": 2.587,
+            "nipple": 2.929
+          },
+          {
+            "name": "3",
+            "two wires": 2.317,
+            "over two wires": 2.990,
+            "1 wire": 3.962,
+            "nipple": 4.485
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.017,
+            "over two wires": 3.893,
+            "1 wire": 5.158,
+            "nipple": 5.839
+          },
+          {
+            "name": "4",
+            "two wires": 3.935,
+            "over two wires": 5.077,
+            "1 wire": 6.727,
+            "nipple": 7.615
+          }
+        ]
+      },
+      {
+        "name": "Rigid Metal Conduit (RMC)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.097,
+            "over two wires": 0.125,
+            "1 wire": 0.166,
+            "nipple": 0.188
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.170,
+            "over two wires": 0.220,
+            "1 wire": 0.291,
+            "nipple": 0.329
+          },
+          {
+            "name": "1",
+            "two wires": 0.275,
+            "over two wires": 0.355,
+            "1 wire": 0.470,
+            "nipple": 0.532
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.473,
+            "over two wires": 0.610,
+            "1 wire": 0.809,
+            "nipple": 0.916
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.642,
+            "over two wires": 0.829,
+            "1 wire": 1.098,
+            "nipple": 1.243
+          },
+          {
+            "name": "2",
+            "two wires": 1.056,
+            "over two wires": 1.363,
+            "1 wire": 1.806,
+            "nipple": 2.045
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.508,
+            "over two wires": 1.946,
+            "1 wire": 2.579,
+            "nipple": 2.919
+          },
+          {
+            "name": "3",
+            "two wires": 2.325,
+            "over two wires": 3.000,
+            "1 wire": 3.974,
+            "nipple": 4.499
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.103,
+            "over two wires": 4.004,
+            "1 wire": 5.305,
+            "nipple": 6.006
+          },
+          {
+            "name": "4",
+            "two wires": 3.994,
+            "over two wires": 5.153,
+            "1 wire": 6.828,
+            "nipple": 7.729
+          },
+          {
+            "name": "5",
+            "two wires": 6.266,
+            "over two wires": 8.085,
+            "1 wire": 10.713,
+            "nipple": 12.127
+          },
+          {
+            "name": "6",
+            "two wires": 9.039,
+            "over two wires": 11.663,
+            "1 wire": 15.454,
+            "nipple": 17.495
+          }
+        ]
+      },
+      {
+        "name": "Rigid PVC Conduit (PVC), SCHEDULE 80",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.067,
+            "over two wires": 0.087,
+            "1 wire": 0.115,
+            "nipple": 0.130
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.127,
+            "over two wires": 0.164,
+            "1 wire": 0.217,
+            "nipple": 0.246
+          },
+          {
+            "name": "1",
+            "two wires": 0.213,
+            "over two wires": 0.275,
+            "1 wire": 0.365,
+            "nipple": 0.413
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.383,
+            "over two wires": 0.495,
+            "1 wire": 0.656,
+            "nipple": 0.742
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.530,
+            "over two wires": 0.684,
+            "1 wire": 0.907,
+            "nipple": 1.027
+          },
+          {
+            "name": "2",
+            "two wires": 0.891,
+            "over two wires": 1.150,
+            "1 wire": 1.523,
+            "nipple": 1.725
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.277,
+            "over two wires": 1.647,
+            "1 wire": 2.183,
+            "nipple": 2.471
+          },
+          {
+            "name": "3",
+            "two wires": 1.997,
+            "over two wires": 2.577,
+            "1 wire": 3.414,
+            "nipple": 3.865
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 2.693,
+            "over two wires": 3.475,
+            "1 wire": 4.605,
+            "nipple": 5.213
+          },
+          {
+            "name": "4",
+            "two wires": 3.490,
+            "over two wires": 5.503,
+            "1 wire": 5.967,
+            "nipple": 6.755
+          },
+          {
+            "name": "5",
+            "two wires": 5.535,
+            "over two wires": 7.142,
+            "1 wire": 9.463,
+            "nipple": 10.713
+          },
+          {
+            "name": "6",
+            "two wires": 7.935,
+            "over two wires": 10.239,
+            "1 wire": 13.567,
+            "nipple": 15.359
+          }
+        ]
+      },
+      {
+        "name": "Rigid PVC Conduit (PVC), SCHEDULE 40 & HDPE Conduit (HDPE)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.088,
+            "over two wires": 0.114,
+            "1 wire": 0.151,
+            "nipple": 0.171
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.157,
+            "over two wires": 0.203,
+            "1 wire": 0.269,
+            "nipple": 0.305
+          },
+          {
+            "name": "1",
+            "two wires": 0.258,
+            "over two wires": 0.333,
+            "1 wire": 0.441,
+            "nipple": 0.499
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.450,
+            "over two wires": 0.581,
+            "1 wire": 0.770,
+            "nipple": 0.872
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.616,
+            "over two wires": 0.794,
+            "1 wire": 1.052,
+            "nipple": 1.191
+          },
+          {
+            "name": "2",
+            "two wires": 1.020,
+            "over two wires": 1.316,
+            "1 wire": 1.744,
+            "nipple": 1.975
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.455,
+            "over two wires": 1.878,
+            "1 wire": 2.488,
+            "nipple": 2.817
+          },
+          {
+            "name": "3",
+            "two wires": 2.253,
+            "over two wires": 2.907,
+            "1 wire": 3.952,
+            "nipple": 4.361
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.018,
+            "over two wires": 3.895,
+            "1 wire": 5.161,
+            "nipple": 5.842
+          },
+          {
+            "name": "4",
+            "two wires": 3.892,
+            "over two wires": 5.022,
+            "1 wire": 6.654,
+            "nipple": 7.532
+          },
+          {
+            "name": "5",
+            "two wires": 6.126,
+            "over two wires": 7.904,
+            "1 wire": 10.473,
+            "nipple": 11.856
+          },
+          {
+            "name": "6",
+            "two wires": 8.856,
+            "over two wires": 11.427,
+            "1 wire": 15.141,
+            "nipple": 17.140
+          }
+        ]
+      },
+      {
+        "name": "TYPE A, Rigid PVC Conduit (PVC)",
+        "trade size": [
+          {
+            "name": "1/2",
+            "two wires": 0.119,
+            "over two wires": 0.154,
+            "1 wire": 0.204,
+            "nipple": 0.231
+          },
+          {
+            "name": "3/4",
+            "two wires": 0.202,
+            "over two wires": 0.260,
+            "1 wire": 0.345,
+            "nipple": 0.390
+          },
+          {
+            "name": "1",
+            "two wires": 0.336,
+            "over two wires": 0.434,
+            "1 wire": 0.575,
+            "nipple": 0.651
+          },
+          {
+            "name": "1 1/4",
+            "two wires": 0.548,
+            "over two wires": 0.707,
+            "1 wire": 0.937,
+            "nipple": 1.060
+          },
+          {
+            "name": "1 1/2",
+            "two wires": 0.720,
+            "over two wires": 0.929,
+            "1 wire": 1.231,
+            "nipple": 1.394
+          },
+          {
+            "name": "2",
+            "two wires": 1.131,
+            "over two wires": 1.459,
+            "1 wire": 1.933,
+            "nipple": 2.188
+          },
+          {
+            "name": "2 1/2",
+            "two wires": 1.690,
+            "over two wires": 2.181,
+            "1 wire": 2.890,
+            "nipple": 3.271
+          },
+          {
+            "name": "3",
+            "two wires": 2.540,
+            "over two wires": 2.278,
+            "1 wire": 3.343,
+            "nipple": 4.916
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.315,
+            "over two wires": 4.278,
+            "1 wire": 5.668,
+            "nipple": 6.416
+          },
+          {
+            "name": "4",
+            "two wires": 4.254,
+            "over two wires": 5.489,
+            "1 wire": 7.273,
+            "nipple": 8.234
+          }
+        ]
+      },
+      {
+        "name": "TYPE EB, PVC Conduit (PVC)",
+        "trade size": [
+          {
+            "name": "2",
+            "two wires": 1.201,
+            "over two wires": 1.550,
+            "1 wire": 2.053,
+            "nipple": 2.325
+          },
+          {
+            "name": "3",
+            "two wires": 2.700,
+            "over two wires": 3.484,
+            "1 wire": 4.616,
+            "nipple": 5.226
+          },
+          {
+            "name": "3 1/2",
+            "two wires": 3.523,
+            "over two wires": 4.546,
+            "1 wire": 6.023,
+            "nipple": 6.819
+          },
+          {
+            "name": "4",
+            "two wires": 4.479,
+            "over two wires": 5.779,
+            "1 wire": 7.657,
+            "nipple": 8.669
+          },
+          {
+            "name": "5",
+            "two wires": 6.881,
+            "over two wires": 8.878,
+            "1 wire": 11.763,
+            "nipple": 13.317
+          },
+          {
+            "name": "6",
+            "two wires": 9.774,
+            "over two wires": 12.612,
+            "1 wire": 16.711,
+            "nipple": 18.918
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1026 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:theme="@style/AppTheme.AppBarOverlay"
+    tools:context=".activities.ToFind1Calculator">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_top"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorAccent"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                android:id="@+id/home_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:singleLine="false"
+                android:text="@string/title_activity_to_find_calculator"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar_top"
+        android:fillViewport="false"
+        android:gravity="center"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:id="@+id/tofind_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/tofind_sub_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                    android:id="@+id/tofind_calculator_header"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:gravity="center"
+                    android:text="@string/tofind_calculator_header"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <Spinner
+                    android:id="@+id/to_find_spinner"
+                    style="@style/spinner_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp" />
+
+                <TableLayout
+                    android:id="@+id/to_find_known_value_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/to_find_val_spinner"
+                    style="@style/spinner_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    android:visibility="gone" />
+
+                <TableLayout
+                    android:id="@+id/to_find_known_value_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical"
+                    android:visibility="gone" />
+
+
+                <Spinner
+                    android:id="@+id/to_find_type_spinner"
+                    style="@style/spinner_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    android:visibility="gone" />
+
+                <TableLayout
+                    android:id="@+id/to_find_known_value_view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="vertical"
+                    android:visibility="gone" />
+
+                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                    android:id="@+id/to_find_result_header"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:background="@android:color/black"
+                    android:gravity="center|center_horizontal|center_vertical"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/to_find_result_header"
+                    android:textColor="@color/white"
+                    android:textSize="16sp"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/result_view_kW_kva"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="30dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/result_kW_kva"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_from_kW_kva"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="2dp"
+                                    android:layout_marginTop="8dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_from_unit_kW_kva"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="8dp"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginRight="5dp"
+                                    android:layout_marginTop="8dp"
+                                    android:text="X"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_to_kW_kva"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="8dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_to_unit_kW_kva"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="8dp"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+
+                                <LinearLayout
+                                    android:id="@+id/div_from_unit_kW_kva_sp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginTop="8dp"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/mul_to_kW_kva1"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:singleLine="true"
+                                        android:textColor="@color/colorAccent"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/mul_to_unit_kW_kva1"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/div_from_unit_kW_kva_tp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginTop="8dp"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="1.73"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="1dp"
+                                android:layout_marginBottom="0dp"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:layout_marginTop="7dp"
+                                android:background="@android:color/black"
+                                android:minWidth="250dp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="1000"
+                                android:textColor="@android:color/black"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/final_result_lhs__kW_kva"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/final_result_rhs_kW_kva"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/final_result_unit_kW_kva"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/result_view_watts"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="30dp"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="P"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:text="="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:id="@+id/mul_from_watts"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="20sp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:id="@+id/mul_from_unit_watts"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:textColor="@android:color/black"
+                                android:textSize="20sp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:text="X"
+                                android:textColor="@android:color/black"
+                                android:textSize="16sp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:id="@+id/mul_to_watts"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="20sp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:id="@+id/mul_to_unit_watts"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:textColor="@android:color/black"
+                                android:textSize="20sp" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:gravity="left"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="P ="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/result_watts"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/result_unit_watts"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="W"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/result_view_hp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="30dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/result_hp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="30dp"
+                            android:text="HP"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="30dp"
+                            android:text="="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20dp"
+                            android:orientation="vertical">
+
+                            <com.ascendlearning.jbl.uglys.views.PredicateLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:horizontalSpacing="5dp"
+                                android:verticalSpacing="5dp">
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_hp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_unit_hp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginRight="5dp"
+                                    android:text="X"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_hp1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_unit_hp1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginRight="5dp"
+                                    android:text="X"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_hp2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_from_unit_hp2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <LinearLayout
+                                    android:id="@+id/div_from_unit_hp_sp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="0dp"
+                                    android:orientation="horizontal"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_from_hp3"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/colorAccent"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_from_unit_hp3"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/div_from_unit_hp_tp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="0dp"
+                                    android:orientation="horizontal"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="1.73"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                </LinearLayout>
+
+
+                            </com.ascendlearning.jbl.uglys.views.PredicateLayout>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="1dp"
+                                android:layout_marginBottom="0dp"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="7dp"
+                                android:background="@android:color/black"
+                                android:minWidth="250dp" />
+
+                            <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                android:text="746"
+                                android:textColor="@android:color/black"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="HP ="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/final_result_rhs_hp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/final_result_unit_hp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="HP"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/result_view_amps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginTop="20dp"
+                            android:text="I"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_from_amps"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="2dp"
+                                    android:layout_marginTop="8dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/mul_from_unit_amps"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginTop="8dp"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <LinearLayout
+                                    android:id="@+id/multiplication_second_amps_view"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginTop="8dp"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/multiplication_value_amps"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="746"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="1dp"
+                                android:layout_marginBottom="0dp"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_marginTop="7dp"
+                                android:background="@android:color/black"
+                                android:minWidth="250dp" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_to_amps"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="3dp"
+                                    android:textColor="@color/colorAccent"
+                                    android:textSize="14sp" />
+
+                                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                    android:id="@+id/div_to_unit_amps"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginTop="3dp"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="14sp" />
+
+                                <LinearLayout
+                                    android:id="@+id/div_second_amps_view"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_marginTop="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_to_amps1"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:singleLine="true"
+                                        android:textColor="@color/colorAccent"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_to_unit_amps1"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/div_third_amps_view"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_marginTop="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_to_amps2"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:singleLine="true"
+                                        android:textColor="@color/colorAccent"
+                                        android:textSize="14sp" />
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:id="@+id/div_to_unit_amps2"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/div_fourth_amps_view"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:visibility="gone">
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_marginTop="5dp"
+                                        android:text="X"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+
+
+                                    <com.ascendlearning.jbl.uglys.views.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:text="1.73"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="14sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="I ="
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:id="@+id/result_amps"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="20sp" />
+
+                        <com.ascendlearning.jbl.uglys.views.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="20dp"
+                            android:text="A"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@id/tofind_sub_view"
+                android:layout_marginTop="50dp">
+
+                <ImageView
+                    android:id="@+id/divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/dividerline_onlightbkgd"
+                    android:gravity="center_vertical" />
+
+                <ImageView
+                    android:id="@+id/relatedContent_imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/divider"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bulldog_related_content"
+                    android:gravity="center_vertical" />
+
+                <com.ascendlearning.jbl.uglys.views.CustomTextView
+                    android:id="@+id/bookname1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/divider"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@id/relatedContent_imageview"
+                    android:text="@string/book_name1"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="16sp" />
+
+
+                <TextView
+                    android:id="@+id/book_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/bookname1"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_toRightOf="@id/relatedContent_imageview"
+                    android:text="@string/book_location"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

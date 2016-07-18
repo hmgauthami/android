@@ -1,0 +1,941 @@
+[
+  {
+    "FLC Calculator": [
+      {
+        "name": "Three Phase Transformers Voltage (line to line)",
+        "KVA": [
+          {
+            "value": "3",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 8.3
+              },
+              {
+                "amps": 240,
+                "value": 7.2
+              },
+              {
+                "amps": 480,
+                "value": 3.6
+              },
+              {
+                "amps": 2400,
+                "value": 0.71
+              },
+              {
+                "amps": 4160,
+                "value": 0.416
+              }
+            ]
+          },
+          {
+            "value": "6",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 16.7
+              },
+              {
+                "amps": 240,
+                "value": 14.4
+              },
+              {
+                "amps": 480,
+                "value": 7.2
+              },
+              {
+                "amps": 2400,
+                "value": 1.44
+              },
+              {
+                "amps": 4160,
+                "value": 0.83
+              }
+            ]
+          },
+          {
+            "value": "9",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 25
+              },
+              {
+                "amps": 240,
+                "value": 21.7
+              },
+              {
+                "amps": 480,
+                "value": 10.8
+              },
+              {
+                "amps": 2400,
+                "value": 2.17
+              },
+              {
+                "amps": 4160,
+                "value": 1.25
+              }
+            ]
+          },
+          {
+            "value": "15",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 41.6
+              },
+              {
+                "amps": 240,
+                "value": 36.1
+              },
+              {
+                "amps": 480,
+                "value": 18
+              },
+              {
+                "amps": 2400,
+                "value": 3.6
+              },
+              {
+                "amps": 4160,
+                "value": 2.08
+              }
+            ]
+          },
+          {
+            "value": "30",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 83.3
+              },
+              {
+                "amps": 240,
+                "value": 72.2
+              },
+              {
+                "amps": 480,
+                "value": 36.1
+              },
+              {
+                "amps": 2400,
+                "value": 7.2
+              },
+              {
+                "amps": 4160,
+                "value": 4.16
+              }
+            ]
+          },
+          {
+            "value": "45",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 124.9
+              },
+              {
+                "amps": 240,
+                "value": 108.3
+              },
+              {
+                "amps": 480,
+                "value": 54.1
+              },
+              {
+                "amps": 2400,
+                "value": 10.8
+              },
+              {
+                "amps": 4160,
+                "value": 6.25
+              }
+            ]
+          },
+          {
+            "value": "75",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 208.2
+              },
+              {
+                "amps": 240,
+                "value": 180.4
+              },
+              {
+                "amps": 480,
+                "value": 90.2
+              },
+              {
+                "amps": 2400,
+                "value": 18
+              },
+              {
+                "amps": 4160,
+                "value": 10.4
+              }
+            ]
+          },
+          {
+            "value": "100",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 277.6
+              },
+              {
+                "amps": 240,
+                "value": 240.6
+              },
+              {
+                "amps": 480,
+                "value": 120.3
+              },
+              {
+                "amps": 2400,
+                "value": 24.1
+              },
+              {
+                "amps": 4160,
+                "value": 13.9
+              }
+            ]
+          },
+          {
+            "value": "150",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 416.4
+              },
+              {
+                "amps": 240,
+                "value": 360.9
+              },
+              {
+                "amps": 480,
+                "value": 180.4
+              },
+              {
+                "amps": 2400,
+                "value": 36.1
+              },
+              {
+                "amps": 4160,
+                "value": 20.8
+              }
+            ]
+          },
+          {
+            "value": "225",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 624.6
+              },
+              {
+                "amps": 240,
+                "value": 541.3
+              },
+              {
+                "amps": 480,
+                "value": 270.6
+              },
+              {
+                "amps": 2400,
+                "value": 54.1
+              },
+              {
+                "amps": 4160,
+                "value": 31.2
+              }
+            ]
+          },
+          {
+            "value": "300",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 832.7
+              },
+              {
+                "amps": 240,
+                "value": 721.7
+              },
+              {
+                "amps": 480,
+                "value": 360.9
+              },
+              {
+                "amps": 2400,
+                "value": 72.2
+              },
+              {
+                "amps": 4160,
+                "value": 41.6
+              }
+            ]
+          },
+          {
+            "value": "500",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 1387.9
+              },
+              {
+                "amps": 240,
+                "value": 1202.8
+              },
+              {
+                "amps": 480,
+                "value": 601.4
+              },
+              {
+                "amps": 2400,
+                "value": 120.3
+              },
+              {
+                "amps": 4160,
+                "value": 69.4
+              }
+            ]
+          },
+          {
+            "value": "750",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 2081.9
+              },
+              {
+                "amps": 240,
+                "value": 1804.3
+              },
+              {
+                "amps": 480,
+                "value": 902.1
+              },
+              {
+                "amps": 2400,
+                "value": 180.4
+              },
+              {
+                "amps": 4160,
+                "value": 104.1
+              }
+            ]
+          },
+          {
+            "value": "1000",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 2775.8
+              },
+              {
+                "amps": 240,
+                "value": 2405.7
+              },
+              {
+                "amps": 480,
+                "value": 1202.8
+              },
+              {
+                "amps": 2400,
+                "value": 240.6
+              },
+              {
+                "amps": 4160,
+                "value": 138.8
+              }
+            ]
+          },
+          {
+            "value": "1500",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 4163.7
+              },
+              {
+                "amps": 240,
+                "value": 3608.5
+              },
+              {
+                "amps": 480,
+                "value": 1804.3
+              },
+              {
+                "amps": 2400,
+                "value": 360.9
+              },
+              {
+                "amps": 4160,
+                "value": 208.2
+              }
+            ]
+          },
+          {
+            "value": "2000",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 5551.6
+              },
+              {
+                "amps": 240,
+                "value": 4811.4
+              },
+              {
+                "amps": 480,
+                "value": 2405.7
+              },
+              {
+                "amps": 2400,
+                "value": 481.1
+              },
+              {
+                "amps": 4160,
+                "value": 277.6
+              }
+            ]
+          },
+          {
+            "value": "2500",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 6939.5
+              },
+              {
+                "amps": 240,
+                "value": 6014.2
+              },
+              {
+                "amps": 480,
+                "value": 3007.1
+              },
+              {
+                "amps": 2400,
+                "value": 601.4
+              },
+              {
+                "amps": 4160,
+                "value": 347
+              }
+            ]
+          },
+          {
+            "value": "5000",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 13879
+              },
+              {
+                "amps": 240,
+                "value": 12028.5
+              },
+              {
+                "amps": 480,
+                "value": 6014.2
+              },
+              {
+                "amps": 2400,
+                "value": 1202.8
+              },
+              {
+                "amps": 4160,
+                "value": 694
+              }
+            ]
+          },
+          {
+            "value": "7500",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 20818.5
+              },
+              {
+                "amps": 240,
+                "value": 18042.7
+              },
+              {
+                "amps": 480,
+                "value": 9021.4
+              },
+              {
+                "amps": 2400,
+                "value": 1804.3
+              },
+              {
+                "amps": 4160,
+                "value": 1040.9
+              }
+            ]
+          },
+          {
+            "value": "10000",
+            "amperes": [
+              {
+                "amps": 208,
+                "value": 27758
+              },
+              {
+                "amps": 240,
+                "value": 24057
+              },
+              {
+                "amps": 480,
+                "value": 12028.5
+              },
+              {
+                "amps": 2400,
+                "value": 2405.7
+              },
+              {
+                "amps": 4160,
+                "value": 1387.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Single Phase Transformers Voltage",
+        "KVA": [
+          {
+            "value": "1",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 8.33
+              },
+              {
+                "amps": 208,
+                "value": 4.81
+              },
+              {
+                "amps": 240,
+                "value": 4.17
+              },
+              {
+                "amps": 480,
+                "value": 2.08
+              },
+              {
+                "amps": 2400,
+                "value": 0.42
+              }
+            ]
+          },
+          {
+            "value": "3",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 25
+              },
+              {
+                "amps": 208,
+                "value": 14.4
+              },
+              {
+                "amps": 240,
+                "value": 12.5
+              },
+              {
+                "amps": 480,
+                "value": 6.25
+              },
+              {
+                "amps": 2400,
+                "value": 1.25
+              }
+            ]
+          },
+          {
+            "value": "5",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 41.7
+              },
+              {
+                "amps": 208,
+                "value": 24
+              },
+              {
+                "amps": 240,
+                "value": 20.8
+              },
+              {
+                "amps": 480,
+                "value": 10.4
+              },
+              {
+                "amps": 2400,
+                "value": 2.08
+              }
+            ]
+          },
+          {
+            "value": "7.5",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 62.5
+              },
+              {
+                "amps": 208,
+                "value": 36.1
+              },
+              {
+                "amps": 240,
+                "value": 31.3
+              },
+              {
+                "amps": 480,
+                "value": 15.6
+              },
+              {
+                "amps": 2400,
+                "value": 3.13
+              }
+            ]
+          },
+          {
+            "value": "10",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 83.3
+              },
+              {
+                "amps": 208,
+                "value": 48.1
+              },
+              {
+                "amps": 240,
+                "value": 41.7
+              },
+              {
+                "amps": 480,
+                "value": 20.8
+              },
+              {
+                "amps": 2400,
+                "value": 4.17
+              }
+            ]
+          },
+          {
+            "value": "15",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 125
+              },
+              {
+                "amps": 208,
+                "value": 72.1
+              },
+              {
+                "amps": 240,
+                "value": 62.5
+              },
+              {
+                "amps": 480,
+                "value": 31.3
+              },
+              {
+                "amps": 2400,
+                "value": 6.25
+              }
+            ]
+          },
+          {
+            "value": "25",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 208.3
+              },
+              {
+                "amps": 208,
+                "value": 120.2
+              },
+              {
+                "amps": 240,
+                "value": 104.2
+              },
+              {
+                "amps": 480,
+                "value": 52.1
+              },
+              {
+                "amps": 2400,
+                "value": 10.4
+              }
+            ]
+          },
+          {
+            "value": "37.5",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 312.5
+              },
+              {
+                "amps": 208,
+                "value": 180.3
+              },
+              {
+                "amps": 240,
+                "value": 156.3
+              },
+              {
+                "amps": 480,
+                "value": 78.1
+              },
+              {
+                "amps": 2400,
+                "value": 15.6
+              }
+            ]
+          },
+          {
+            "value": "50",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 416.7
+              },
+              {
+                "amps": 208,
+                "value": 240.4
+              },
+              {
+                "amps": 240,
+                "value": 208.3
+              },
+              {
+                "amps": 480,
+                "value": 104.2
+              },
+              {
+                "amps": 2400,
+                "value": 20.8
+              }
+            ]
+          },
+          {
+            "value": "75",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 625
+              },
+              {
+                "amps": 208,
+                "value": 360.6
+              },
+              {
+                "amps": 240,
+                "value": 312.5
+              },
+              {
+                "amps": 480,
+                "value": 156.3
+              },
+              {
+                "amps": 2400,
+                "value": 31.3
+              }
+            ]
+          },
+          {
+            "value": "100",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 833.3
+              },
+              {
+                "amps": 208,
+                "value": 480.8
+              },
+              {
+                "amps": 240,
+                "value": 416.7
+              },
+              {
+                "amps": 480,
+                "value": 208.3
+              },
+              {
+                "amps": 2400,
+                "value": 41.7
+              }
+            ]
+          },
+          {
+            "value": "125",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 1041.7
+              },
+              {
+                "amps": 208,
+                "value": 601
+              },
+              {
+                "amps": 240,
+                "value": 520.8
+              },
+              {
+                "amps": 480,
+                "value": 260.4
+              },
+              {
+                "amps": 2400,
+                "value": 52.1
+              }
+            ]
+          },
+          {
+            "value": "167.5",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 1395.8
+              },
+              {
+                "amps": 208,
+                "value": 805.3
+              },
+              {
+                "amps": 240,
+                "value": 697.9
+              },
+              {
+                "amps": 480,
+                "value": 349
+              },
+              {
+                "amps": 2400,
+                "value": 69.8
+              }
+            ]
+          },
+          {
+            "value": "200",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 1666.7
+              },
+              {
+                "amps": 208,
+                "value": 961.5
+              },
+              {
+                "amps": 240,
+                "value": 833.3
+              },
+              {
+                "amps": 480,
+                "value": 416.7
+              },
+              {
+                "amps": 2400,
+                "value": 83.3
+              }
+            ]
+          },
+          {
+            "value": "250",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 2083.3
+              },
+              {
+                "amps": 208,
+                "value": 1201.9
+              },
+              {
+                "amps": 240,
+                "value": 1041.7
+              },
+              {
+                "amps": 480,
+                "value": 520.8
+              },
+              {
+                "amps": 2400,
+                "value": 104.2
+              }
+            ]
+          },
+          {
+            "value": "333",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 2775
+              },
+              {
+                "amps": 208,
+                "value": 1601
+              },
+              {
+                "amps": 240,
+                "value": 1387.5
+              },
+              {
+                "amps": 480,
+                "value": 693.8
+              },
+              {
+                "amps": 2400,
+                "value": 138.8
+              }
+            ]
+          },
+          {
+            "value": "500",
+            "amperes": [
+              {
+                "amps": 120,
+                "value": 4166.7
+              },
+              {
+                "amps": 208,
+                "value": 2403.8
+              },
+              {
+                "amps": 240,
+                "value": 2083.3
+              },
+              {
+                "amps": 480,
+                "value": 1041.7
+              },
+              {
+                "amps": 2400,
+                "value": 208.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

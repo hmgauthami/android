@@ -1,0 +1,2608 @@
+[
+  {
+    "Insulation Type": [
+      {
+        "name": "RHH",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0293
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0353
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0835
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.1041
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1521
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1750
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.2660
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.3039
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.3505
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.4072
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.4754
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.6291
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.7088
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.7870
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.8626
+          },
+          {
+            "size": "500 kcmil",
+            "value": 1.0082
+          },
+          {
+            "size": "600 kcmil",
+            "value": 1.2135
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.4272
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.4957
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.6377
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.7719
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 2.3479
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.6938
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 3.0357
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 3.3719
+          }
+        ]
+      },
+      {
+        "name": "RHW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0293
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0353
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0835
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.1041
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1521
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1750
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.2660
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.3039
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.3505
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.4072
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.4754
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.6291
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.7088
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.7870
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.8626
+          },
+          {
+            "size": "500 kcmil",
+            "value": 1.0082
+          },
+          {
+            "size": "600 kcmil",
+            "value": 1.2135
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.4272
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.4957
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.6377
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.7719
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 2.3479
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.6938
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 3.0357
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 3.3719
+          }
+        ]
+      },
+      {
+        "name": "RHW-2",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0293
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0353
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0835
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.1041
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1521
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1750
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.2660
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.3039
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.3505
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.4072
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.4754
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.6291
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.7088
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.7870
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.8626
+          },
+          {
+            "size": "500 kcmil",
+            "value": 1.0082
+          },
+          {
+            "size": "600 kcmil",
+            "value": 1.2135
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.4272
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.4957
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.6377
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.7719
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 2.3479
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.6938
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 3.0357
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 3.3719
+          }
+        ]
+      },
+      {
+        "name": "TW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "RHH*",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0209
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0260
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0556
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "RHW*",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0209
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0260
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0556
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "RHW-2*",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0209
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0260
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0556
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "THHW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "THW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "THW-2",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0726
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.1134
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1333
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1901
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2624
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.3117
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3718
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.4596
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.5281
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5958
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.6619
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7901
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.9729
+          },
+          {
+            "size": "700 kcmil",
+            "value": 1.1010
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.1652
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.2272
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.3561
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.4784
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.8602
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.1695
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.4773
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.7818
+          }
+        ]
+      },
+      {
+        "name": "THHN",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0097
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0133
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0211
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0366
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0507
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0824
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1158
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1562
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1855
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2679
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3237
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3970
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4608
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5242
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5863
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7073
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8676
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9887
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0496
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1085
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2311
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3478
+          }
+        ]
+      },
+      {
+        "name": "THWN",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0097
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0133
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0211
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0366
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0507
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0824
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1158
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1562
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1855
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2679
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3237
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3970
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4608
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5242
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5863
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7073
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8676
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9887
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0496
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1085
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2311
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3478
+          }
+        ]
+      },
+      {
+        "name": "THWN-2",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0097
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0133
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0211
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0366
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0507
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0824
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1158
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1562
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1855
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2223
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2679
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3237
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3970
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4608
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5242
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5863
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.7073
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8676
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9887
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0496
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1085
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2311
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3478
+          }
+        ]
+      },
+      {
+        "name": "FEP",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0137
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0468
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0670
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0804
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.0973
+          }
+        ]
+      },
+      {
+        "name": "FEPB",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0137
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0468
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0670
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0804
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.0973
+          }
+        ]
+      },
+      {
+        "name": "PFA",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0137
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0468
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0670
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0804
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1676
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2027
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2463
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3000
+          }
+        ]
+      },
+      {
+        "name": "PFAH",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0137
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0468
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0670
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0804
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1399
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1676
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2027
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2463
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3000
+          }
+        ]
+      },
+      {
+        "name": "TFE",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0137
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0333
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0468
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0670
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0804
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.0973
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1399
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1676
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2027
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2463
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3000
+          }
+        ]
+      },
+      {
+        "name": "Z",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0083
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0117
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0191
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0302
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0430
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0625
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0855
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1029
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1269
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1676
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2027
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2463
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3000
+          }
+        ]
+      },
+      {
+        "name": "XHH",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0590
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0814
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0962
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1146
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1534
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1825
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2190
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2642
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3197
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3904
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4536
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5166
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5782
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.6984
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8709
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9923
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0532
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1122
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2351
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3519
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.7180
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.0157
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.3127
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.6073
+          }
+        ]
+      },
+      {
+        "name": "XHHW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0590
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0814
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0962
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1146
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1534
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1825
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2190
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2642
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3197
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3904
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4536
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5166
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5782
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.6984
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8709
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9923
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0532
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1122
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2351
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3519
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.7180
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.0157
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.3127
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.6073
+          }
+        ]
+      },
+      {
+        "name": "XHHW-2",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.0590
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0814
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0962
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1146
+          },
+          {
+            "size": "1 AWG",
+            "value": 0.1534
+          },
+          {
+            "size": "1/0 AWG",
+            "value": 0.1825
+          },
+          {
+            "size": "2/0 AWG",
+            "value": 0.2190
+          },
+          {
+            "size": "3/0 AWG",
+            "value": 0.2642
+          },
+          {
+            "size": "4/0 AWG",
+            "value": 0.3197
+          },
+          {
+            "size": "250 kcmil",
+            "value": 0.3904
+          },
+          {
+            "size": "300 kcmil",
+            "value": 0.4536
+          },
+          {
+            "size": "350 kcmil",
+            "value": 0.5166
+          },
+          {
+            "size": "400 kcmil",
+            "value": 0.5782
+          },
+          {
+            "size": "500 kcmil",
+            "value": 0.6984
+          },
+          {
+            "size": "600 kcmil",
+            "value": 0.8709
+          },
+          {
+            "size": "700 kcmil",
+            "value": 0.9923
+          },
+          {
+            "size": "750 kcmil",
+            "value": 1.0532
+          },
+          {
+            "size": "800 kcmil",
+            "value": 1.1122
+          },
+          {
+            "size": "900 kcmil",
+            "value": 1.2351
+          },
+          {
+            "size": "1000 kcmil",
+            "value": 1.3519
+          },
+          {
+            "size": "1250 kcmil",
+            "value": 1.7180
+          },
+          {
+            "size": "1500 kcmil",
+            "value": 2.0157
+          },
+          {
+            "size": "1750 kcmil",
+            "value": 2.3127
+          },
+          {
+            "size": "2000 kcmil",
+            "value": 2.6073
+          }
+        ]
+      },
+      {
+        "name": "ZW",
+        "sizes": [
+          {
+            "size": "14 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0181
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0243
+          },
+          {
+            "size": "8 AWG",
+            "value": 0.0437
+          },
+          {
+            "size": "6 AWG",
+            "value": 0.059
+          },
+          {
+            "size": "4 AWG",
+            "value": 0.0814
+          },
+          {
+            "size": "3 AWG",
+            "value": 0.0962
+          },
+          {
+            "size": "2 AWG",
+            "value": 0.1146
+          }
+        ]
+      },
+      {
+        "name": "RFH-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0145
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0172
+          }
+        ]
+      },
+      {
+        "name": "FFH-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0145
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0172
+          }
+        ]
+      },
+      {
+        "name": "SF-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0115
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0172
+          }
+        ]
+      },
+      {
+        "name": "SFF-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0115
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0139
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0172
+          }
+        ]
+      },
+      {
+        "name": "SF-1",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0065
+          }
+        ]
+      },
+      {
+        "name": "SFF-1",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0065
+          }
+        ]
+      },
+      {
+        "name": "RFH-1",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0080
+          }
+        ]
+      },
+      {
+        "name": "XFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0080
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0109
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0209
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0260
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0333
+          }
+        ]
+      },
+      {
+        "name": "XF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0080
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0109
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0209
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0260
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0333
+          }
+        ]
+      },
+      {
+        "name": "TF",
+        "sizes": [
+          {
+            "size": "16 AWG",
+            "value": 0.0109
+          }
+        ]
+      },
+      {
+        "name": "TFF",
+        "sizes": [
+          {
+            "size": "16 AWG",
+            "value": 0.0109
+          }
+        ]
+      },
+      {
+        "name": "TFN",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0055
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0072
+          }
+        ]
+      },
+      {
+        "name": "TFFN",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0055
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0072
+          }
+        ]
+      },
+      {
+        "name": "PF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PGFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PGF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PTF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PAF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PTFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "PAFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0058
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0075
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0100
+          }
+        ]
+      },
+      {
+        "name": "ZF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0045
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0061
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0083
+          }
+        ]
+      },
+      {
+        "name": "ZFF",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0045
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0061
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0083
+          }
+        ]
+      },
+      {
+        "name": "KF-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0031
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0044
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0064
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0093
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0139
+          }
+        ]
+      },
+      {
+        "name": "KFF-2",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0031
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0044
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0064
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0093
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0139
+          }
+        ]
+      },
+      {
+        "name": "KF-1",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0026
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0037
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0055
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0083
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0127
+          }
+        ]
+      },
+      {
+        "name": "KFF-1",
+        "sizes": [
+          {
+            "size": "18 AWG",
+            "value": 0.0026
+          },
+          {
+            "size": "16 AWG",
+            "value": 0.0037
+          },
+          {
+            "size": "14 AWG",
+            "value": 0.0055
+          },
+          {
+            "size": "12 AWG",
+            "value": 0.0083
+          },
+          {
+            "size": "10 AWG",
+            "value": 0.0127
+          }
+        ]
+      }
+    ]
+  }
+]

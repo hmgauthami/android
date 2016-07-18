@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS Bookmark (
+Code INTEGER UNIQUE PRIMARY KEY AUTOINCREMENT NOT NULL,
+Description TEXT,
+Type INTEGER,
+SubType INTEGER,
+ToFindKnownVal INTEGER,
+ToFindCurrentType INTEGER,
+BookmarkCode INTEGER,
+ConversionTo INTEGER,
+ConversionFrom INTEGER
+);

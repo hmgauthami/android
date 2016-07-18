@@ -1,0 +1,2073 @@
+[
+  {
+    "Topics": [
+      {
+        "name": "Circuits",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Ohm’s Law",
+            "type": "calculator",
+            "calculator_id": "1",
+            "hash_location": "ch_1",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Series Circuits",
+            "type": "epub",
+            "hash_location": "ch_2",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Parallel Circuits",
+            "type": "epub",
+            "hash_location": "ch_3",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Combination Circuits",
+            "type": "epub",
+            "hash_location": "ch_4",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Common Electrical Distribution Systems",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "120/240-Volt, Single-Phase, Three-Wire System",
+            "type": "epub",
+            "hash_location": "ch_5",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "120/240-Volt, Three-Phase, Four-Wire System (Delta High Leg)",
+            "type": "epub",
+            "hash_location": "ch_6",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "120/208-Volt, Three-Phase, Four-Wire System (Wye Connected)",
+            "type": "epub",
+            "hash_location": "ch_7",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "277/480-Volt, Three-Phase, Four-Wire System (Wye Connected)",
+            "type": "epub",
+            "hash_location": "ch_8",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Electrical Formulas",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "For Calculating Amperes, Horsepower, Kilowatts, and KVA",
+            "type": "calculator",
+            "calculator_id": "2",
+            "hash_location": "ch_9",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "To Find",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Amperes",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Direct Current",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 1,
+                "hash_location": "ch_11",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Single Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 2,
+                "hash_location": "ch_12",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 3,
+                "hash_location": "ch_13",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Horsepower",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Direct Current",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 4,
+                "hash_location": "ch_15",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Single Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 5,
+                "hash_location": "ch_16",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 6,
+                "hash_location": "ch_17",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Watts",
+            "type": "calculator",
+            "calculator_id": "2",
+            "sub_calculator_id": 7,
+            "hash_location": "ch_18",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Kilowatts",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Direct Current",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 8,
+                "hash_location": "ch_20",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Single Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 9,
+                "hash_location": "ch_21",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 10,
+                "hash_location": "ch_22",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Kilovolt-Amperes",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Single Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 11,
+                "hash_location": "ch_24",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three Phase",
+                "type": "calculator",
+                "calculator_id": "2",
+                "sub_calculator_id": 12,
+                "hash_location": "ch_25",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Kirchhoff’s Laws",
+                "type": "epub",
+                "hash_location": "ch_26",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Capacitance (C)",
+            "type": "calculator",
+            "calculator_id": "2",
+            "sub_calculator_id": 13,
+            "hash_location": "ch_27",
+            "chapterIndex": "4",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Six-Dot Color Code for Mica and Molded Paper Capacitors",
+                "type": "epub",
+                "hash_location": "ch_28",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Resistor Color Code",
+                "hash_location": "ch_29",
+                "chapterIndex": "4",
+                "type": "epub",
+                "depth": 2
+              },
+              {
+                "name": "Maximum Permissible Capacitor KVAR for use with Open-Type, Three-Phase, 60-Cycle Induction Motors",
+                "type": "epub",
+                "hash_location": "ch_30",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Power Factor Correction",
+            "depth": 1,
+            "type": "calculator",
+            "calculator_id": "3",
+            "hash_location": "ch_31",
+            "chapterIndex": "4",
+            "subtopics": [
+              {
+                "name": "Table Values KW Of Capacitors Needed to Correct From Existing to Desired Power Factor",
+                "type": "calculator",
+                "calculator_id": "3",
+                "hash_location": "ch_32",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Power Factor and Efficiency Example",
+                "type": "epub",
+                "hash_location": "ch_33",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Inductance (L)",
+            "type": "calculator",
+            "calculator_id": "2",
+            "hash_location": "ch_34",
+            "chapterIndex": "4",
+            "sub_calculator_id": 14,
+            "depth": 1
+          },
+          {
+            "name": "Impedance (Z)",
+            "hash_location": "ch_35",
+            "chapterIndex": "4",
+            "type": "epub",
+            "depth": 1
+          },
+          {
+            "name": "Reactance (X)",
+            "type": "calculator",
+            "calculator_id": "2",
+            "hash_location": "ch_36",
+            "chapterIndex": "4",
+            "sub_calculator_id": 15,
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Motors",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Full-Load Current in Amperes: Direct Current Motors",
+            "calculator_id": "4",
+            "type": "calculator",
+            "hash_location": "ch_37",
+            "chapterIndex": "4",
+            "sub_calculator_id": 0,
+            "depth": 1
+          },
+          {
+            "name": "Direct-Current Motors",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Terminal Markings",
+                "type": "epub",
+                "hash_location": "ch_39",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Shunt-Wound Motors",
+                "type": "epub",
+                "hash_location": "ch_40",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Series-Wound Motors",
+                "type": "epub",
+                "hash_location": "ch_41",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Compound-Wound Motors",
+                "type": "epub",
+                "hash_location": "ch_42",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Full-Load Current in Amperes: Single-Phase Alternating-Current Motors",
+            "type": "calculator",
+            "calculator_id": "4",
+            "hash_location": "ch_43",
+            "chapterIndex": "4",
+            "sub_calculator_id": 1,
+            "depth": 1
+          },
+          {
+            "name": "Single-Phase Motor Using Standard Three-Phase Starter",
+            "type": "epub",
+            "hash_location": "ch_44",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Single-Phase Motors",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Split-Phase, Squirrel-Cage, Dual-Voltage Motor",
+                "type": "epub",
+                "hash_location": "ch_46",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Classes Of Single-Phase Motors",
+                "type": "epub",
+                "hash_location": "ch_47",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Terminal Color Marking",
+                "type": "epub",
+                "hash_location": "ch_48",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Split-Phase, Squirrel-Cage Motor",
+                "type": "epub",
+                "hash_location": "ch_49",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Running Overload Units",
+            "type": "epub",
+            "hash_location": "ch_50",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Motor Branch-Circuit Protective Devices: Maximum Rating or Setting",
+            "type": "epub",
+            "hash_location": "ch_51",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Full-Load Current: Three-Phase Alternating-Current Motors",
+            "type": "calculator",
+            "hash_location": "ch_52",
+            "chapterIndex": "4",
+            "calculator_id": "4",
+            "sub_calculator_id": 2,
+            "depth": 1
+          },
+          {
+            "name": "Full-Load Current and Other Data: Three-Phase Ac Motors",
+            "type": "calculator",
+            "hash_location": "ch_53",
+            "chapterIndex": "4",
+            "calculator_id": "5",
+            "depth": 1
+          },
+          {
+            "name": "Motor and Motor Circuit Conductor Protection",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_54",
+            "chapterIndex": "4",
+            "subtopics": [
+              {
+                "name": "General Motor Rules",
+                "type": "epub",
+                "hash_location": "ch_55",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Motor Branch Circuit and Feeder Example",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "General Motor Applications",
+                "type": "epub",
+                "hash_location": "ch_57",
+                "chapterIndex": "4",
+                "depth": 2,
+                "subtopics": [
+                  {
+                    "name": "Branch-Circuit Conductors",
+                    "type": "epub",
+                    "hash_location": "ch_58",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Branch-Circuit Overcurrent Device",
+                    "type": "epub",
+                    "hash_location": "ch_59",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Feeder Connectors",
+                    "type": "epub",
+                    "hash_location": "ch_60",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Feeder Overcurrent Device",
+                    "type": "epub",
+                    "hash_location": "ch_61",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Locked-Rotor Code Letters",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_62",
+            "chapterIndex": "4",
+            "subtopics": [
+              {
+                "name": "Single-Phase Motors",
+                "type": "epub",
+                "hash_location": "ch_63",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three-Phase Motors",
+                "type": "epub",
+                "hash_location": "ch_64",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Maximum Motor Locked-Rotor Current in Amperes, Single Phase",
+            "type": "calculator",
+            "hash_location": "ch_65",
+            "chapterIndex": "4",
+            "calculator_id": "6",
+            "sub_calculator_id": 0,
+            "depth": 1
+          },
+          {
+            "name": "Maximum Motor Locked-Rotor Current in Amperes, Two and Three Phase, Design B, C, and D",
+            "type": "calculator",
+            "hash_location": "ch_66",
+            "chapterIndex": "4",
+            "calculator_id": "6",
+            "sub_calculator_id": 1,
+            "depth": 1
+          },
+          {
+            "name": "Three-Phase Ac Motor Windings and Connections",
+            "type": "epub",
+            "hash_location": "ch_67",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Common Motor Control Wiring Diagram",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Three-Wire Stop-Start Station",
+            "type": "epub",
+            "hash_location": "ch_68",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Two Three-Wire Stop-Start Stations",
+            "type": "epub",
+            "hash_location": "ch_69",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Hand-Off Automatic Control",
+            "type": "epub",
+            "hash_location": "ch_70",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Jogging with Control Relay",
+            "type": "epub",
+            "hash_location": "ch_71",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Transformers",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Voltage Drop Calculations: Inductance Negligible",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_72",
+            "chapterIndex": "4",
+            "subtopics": [
+              {
+                "name": "Single-Phase Circuits",
+                "type": "epub",
+                "hash_location": "ch_73",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three-Phase Circuits",
+                "type": "epub",
+                "hash_location": "ch_74",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Voltage Drop Examples",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Distance (One-Way) for 2% Voltage Drop for 120 or 240 Volts, Single Phase (60°C [140°F] Insulation and Terminals)",
+                "type": "calculator",
+                "hash_location": "ch_76",
+                "chapterIndex": "4",
+                "calculator_id": "7",
+                "depth": 2
+              },
+              {
+                "name": "Typical Voltage Drop Values Based On Conductor Size and One-Way Length (60°C [140°F] Termination and Insulation)",
+                "type": "calculator",
+                "hash_location": "ch_77",
+                "chapterIndex": "4",
+                "calculator_id": "7",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Voltage Drop Calculation Examples",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Single-Phase Voltage Drop",
+                "type": "epub",
+                "hash_location": "ch_79",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three-Phase Voltage Drop",
+                "hash_location": "ch_4",
+                "chapterIndex": "80",
+                "type": "epub",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Short-Circuit Calculation",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Basic Short-Circuit Calculation Procedure",
+                "type": "epub",
+                "hash_location": "ch_82",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Example: Short-Circuit Calculation",
+            "type": "epub",
+            "hash_location": "ch_83",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Table “C” Values for Conductors (Short-Circuit Calculation)",
+            "type": "epub",
+            "hash_location": "ch_84",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Component Protection",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "How to use Current-Limitation Charts",
+                "depth": 2,
+                "type": "epub",
+                "hash_location": "ch_86",
+                "chapterIndex": "4"
+              },
+              {
+                "name": "How to use the Let-Through Charts",
+                "type": "epub",
+                "hash_location": "ch_87",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Single-Phase Transformer Connections",
+            "type": "epub",
+            "hash_location": "ch_88",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Buck-And-Boost Transformer Connections",
+            "type": "epub",
+            "hash_location": "ch_89",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Full-Load Currents",
+            "type": "calculator",
+            "hash_location": "ch_90",
+            "chapterIndex": "4",
+            "calculator_id": "8",
+            "depth": 1
+          },
+          {
+            "name": "Transformer Calculations",
+            "type": "epub",
+            "hash_location": "ch_91",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Sizing Transformers",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Single-Phase Transformers",
+                "type": "epub",
+                "hash_location": "ch_93",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Three-Phase Transformers",
+                "type": "epub",
+                "hash_location": "ch_94",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Single-Phase Transformer",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Primary and Secondary Amperes",
+                "type": "epub",
+                "hash_location": "ch_96",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Three-Phase Transformer",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Primary and Secondary Amperes",
+                "type": "epub",
+                "hash_location": "ch_98",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Three-Phase Connections",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Wye (Star)",
+                "type": "epub",
+                "hash_location": "ch_4",
+                "chapterIndex": "100",
+                "depth": 2
+              },
+              {
+                "name": "Delta",
+                "type": "epub",
+                "hash_location": "ch_4",
+                "chapterIndex": "101",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Three-Phase Standard Phase Rotation",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Star-Delta Transformers",
+                "type": "epub",
+                "hash_location": "ch_103",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Star-Star Transformers",
+                "type": "epub",
+                "hash_location": "ch_104",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Delta-Delta Transformers",
+                "type": "epub",
+                "hash_location": "ch_105",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Transformer Connections",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Series Connections Of Low-Voltage Windings",
+                "depth": 2,
+                "subtopics": [
+                  {
+                    "name": "Delta-Delta: Three-Phase Additive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_108",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Star-Delta: Three-Phase Additive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_109",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Delta-Star: Three-Phase Additive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_110",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Star-Star: Three-Phase Additive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_111",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Delta-Delta: Three-Phase Subtractive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_112",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  },
+                  {
+                    "name": "Delta-Star: Three-Phase Subtractive Polarity",
+                    "type": "epub",
+                    "hash_location": "ch_113",
+                    "chapterIndex": "4",
+                    "depth": 3
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Common Wiring Diagrams",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Two Three-Way Switches",
+            "type": "epub",
+            "hash_location": "ch_114",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Two Three-Way Switches and One Four-Way Switch",
+            "type": "epub",
+            "hash_location": "ch_115",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Bell Circuit",
+            "type": "epub",
+            "hash_location": "ch_116",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Remote-Control Circuit: One Relay and One Switch",
+            "type": "epub",
+            "hash_location": "ch_117",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Conduit and Conductors",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Supports for Rigid Metal Conduit",
+            "type": "epub",
+            "hash_location": "ch_118",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Supports for Rigid Nonmetallic Conduit",
+            "type": "epub",
+            "hash_location": "ch_119",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Conductor Properties",
+            "type": "epub",
+            "hash_location": "ch_120",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Ac Resistance and Reactance for 600-Volt Cables, Three-Phase, 60-Hz, 75°C (167°F): Three Single Conductors in Conduit",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_121",
+            "chapterIndex": "4"
+          },
+          {
+            "name": "Allowable Ampacities Of Conductors",
+            "depth": 1,
+            "type": "calculator",
+            "hash_location": "ch_122",
+            "chapterIndex": "4",
+            "calculator_id": "9",
+            "subtopics": [
+              {
+                "name": "Raceway, Cable, or Earth, Based On Ambient Air Temperature Of 30°C (86°F)",
+                "type": "calculator",
+                "hash_location": "ch_123",
+                "chapterIndex": "4",
+                "calculator_id": "9",
+                "sub_calculator_id": 1,
+                "depth": 2
+              },
+              {
+                "name": "Free Air, Based On Ambient Air Temperature Of 30°C (86°F)",
+                "type": "calculator",
+                "hash_location": "ch_124",
+                "chapterIndex": "4",
+                "calculator_id": "9",
+                "sub_calculator_id": 2,
+                "depth": 2
+              },
+              {
+                "name": "Raceway or Cable, Based On Ambient Air Temperature Of 40°C (104°F)",
+                "type": "calculator",
+                "hash_location": "ch_125",
+                "chapterIndex": "4",
+                "calculator_id": "9",
+                "sub_calculator_id": 3,
+                "depth": 2
+              },
+              {
+                "name": "Free Air, Based On Ambient Air Temperature Of 40°C (104°F)",
+                "type": "calculator",
+                "hash_location": "ch_126",
+                "chapterIndex": "4",
+                "calculator_id": "9",
+                "sub_calculator_id": 4,
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Ampacity Correction and Adjustment Factors",
+            "type": "epub",
+            "hash_location": "ch_127",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Adjustment Factors",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_128",
+            "chapterIndex": "4"
+          },
+          {
+            "name": "For More Than Three Current-Carrying Conductors in a Raceway or Cable",
+            "type": "epub",
+            "hash_location": "ch_129",
+            "chapterIndex": "4",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Conductor and Equipment Termination Ratings",
+                "type": "epub",
+                "hash_location": "ch_130",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Conductor Applications and Insulations",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_131",
+            "chapterIndex": "4"
+          },
+          {
+            "name": "Maximum Number Of Conductors in Trade Sizes Of Conduit or Tubing",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_132",
+            "chapterIndex": "4",
+            "subtopics": [
+              {
+                "name": "All Same Wire Size and Type Insulation",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_133",
+                "chapterIndex": "4",
+                "sub_calculator_id": 0,
+                "depth": 2
+              },
+              {
+                "name": "Different Wire Sizes or Types Insulation",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_134",
+                "chapterIndex": "4",
+                "sub_calculator_id": 0,
+                "depth": 2
+              },
+              {
+                "name": "Electrical Metallic Tubing",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_135",
+                "chapterIndex": "4",
+                "sub_calculator_id": 1,
+                "depth": 2
+              },
+              {
+                "name": "Nonmetallic Tubing",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_136",
+                "chapterIndex": "4",
+                "sub_calculator_id": 2,
+                "depth": 2
+              },
+              {
+                "name": "Rigid Pvc Conduit, Schedule 40",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_137",
+                "sub_calculator_id": 10,
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Rigid Pvc Conduit, Schedule 80",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_138",
+                "sub_calculator_id": 9,
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Rigid Metal Conduit",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_139",
+                "chapterIndex": "4",
+                "sub_calculator_id": 8,
+                "depth": 2
+              },
+              {
+                "name": "Flexible Metal Conduit",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_140",
+                "chapterIndex": "4",
+                "sub_calculator_id": 3,
+                "depth": 2
+              },
+              {
+                "name": "Liquidtight Flexible Metal Conduit",
+                "type": "calculator",
+                "calculator_id": "10",
+                "hash_location": "ch_141",
+                "chapterIndex": "4",
+                "sub_calculator_id": 7,
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Dimensions Of Insulated Conductors and Fixture Wires",
+            "type": "epub",
+            "hash_location": "ch_142",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Compact Copper and Aluminum Building Wire Nominal Dimensions and Areas",
+            "type": "epub",
+            "hash_location": "ch_143",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Dimensions and Percent Area Of Conduit and Tubing",
+            "type": "epub",
+            "hash_location": "ch_144",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Thread Dimensions and Tap Drill Sizes",
+            "type": "epub",
+            "hash_location": "ch_145",
+            "chapterIndex": "4",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Hole Saw Chart",
+                "type": "epub",
+                "hash_location": "ch_146",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Metal Boxes",
+            "type": "epub",
+            "hash_location": "ch_147",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Minimum Cover Requirements, 0–1000 Volts, Nominal",
+            "type": "epub",
+            "hash_location": "ch_148",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Volume Required Per Conductor",
+            "type": "epub",
+            "hash_location": "ch_149",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Spacings for Conductor Supports",
+            "type": "epub",
+            "hash_location": "ch_150",
+            "chapterIndex": "4",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "name": "Clearances",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Minimum Depth Of Clear Working Space At Electrical Equipment",
+            "type": "epub",
+            "hash_location": "ch_151",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Minimum Clearance Of Live Parts",
+            "type": "epub",
+            "hash_location": "ch_152",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Grounding Conductors and Electrodes",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Minimum Size Equipment Grounding Conductors for Grounding Raceway and Equipment",
+            "type": "epub",
+            "hash_location": "ch_153",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Grounding Electrode Conductor for Alternating-Current Systems",
+            "type": "epub",
+            "hash_location": "ch_154",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Lighting Loads and Demand Factors",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "General Lighting Loads By Occupancy",
+            "type": "epub",
+            "hash_location": "ch_155",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Lighting Load Demand Factors",
+            "type": "epub",
+            "hash_location": "ch_156",
+            "chapterIndex": "4",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "For Nondwelling Receptacle Loads",
+                "type": "epub",
+                "hash_location": "ch_158",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "For Household Electric Clothes Dryers",
+                "type": "epub",
+                "hash_location": "ch_159",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "For Kitchen Equipment - Other Than Dwelling Unit(S)",
+                "type": "epub",
+                "hash_location": "ch_160",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Demand Loads for Household Electric Ranges, Wall-Mounted Ovens, Counter-Mounted Cooking Units, and Other Household Cooking Appliances Over 1¾ KW Rating",
+            "type": "epub",
+            "hash_location": "ch_161",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Calculating Cost Of Operating An Electrical Appliance",
+            "type": "epub",
+            "hash_location": "ch_162",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Changing Incandescent Lamp to Energy-Saving Lamp",
+            "type": "epub",
+            "hash_location": "ch_163",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Partial 2014 Nec Code Changes",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Electrical Service Areas",
+            "type": "epub",
+            "hash_location": "ch_165",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Noninstantaneous Trip",
+            "type": "epub",
+            "hash_location": "ch_166",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Direct-Current Ground-Fault Detection",
+            "type": "epub",
+            "hash_location": "ch_167",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Receptacle Mounting",
+            "type": "epub",
+            "hash_location": "ch_168",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Top-Terminal Batteries",
+            "type": "epub",
+            "hash_location": "ch_169",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Battery Rooms",
+            "type": "epub",
+            "hash_location": "ch_170",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Backfeed On Equipment Over 1000 Volts",
+            "depth": 1,
+            "type": "epub",
+            "hash_location": "ch_171",
+            "chapterIndex": "4"
+          },
+          {
+            "name": "Over 1000 Volts, Substations",
+            "type": "epub",
+            "hash_location": "ch_172",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Operating Room Receptacles",
+            "type": "epub",
+            "hash_location": "ch_173",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Electric Vehicle Charging System",
+            "type": "epub",
+            "hash_location": "ch_174",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Module Data Centers",
+            "type": "epub",
+            "hash_location": "ch_175",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Turbine Shutdown",
+            "type": "epub",
+            "hash_location": "ch_176",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Optional Standby Systems Power Inlet",
+            "type": "epub",
+            "hash_location": "ch_177",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Interconnected Electric Power Production Sources",
+            "type": "epub",
+            "hash_location": "ch_178",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Fire-Resistive Cable Systems",
+            "type": "epub",
+            "hash_location": "ch_179",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Energy Management Systems",
+            "type": "epub",
+            "hash_location": "ch_180",
+            "chapterIndex": "4",
+            "depth": 2
+          },
+          {
+            "name": "Annex J",
+            "type": "epub",
+            "hash_location": "ch_181",
+            "chapterIndex": "4",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "name": "Field Terms",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Field Terms Versus Nec Terms",
+            "type": "epub",
+            "hash_location": "ch_182",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Electrical Symbols",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Electrical Symbols",
+            "type": "interactive",
+            "calculator_id": "13",
+            "hash_location": "ch_183",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Nema Wiring Diagrams",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Wiring Diagrams for Nema Configurations",
+            "type": "interactive",
+            "hash_location": "ch_184",
+            "calculator_id": "12",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Nema Enclosure Types",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Nema Enclosure Types",
+            "type": "epub",
+            "hash_location": "ch_185",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "General Reference",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "U.S. Weights and Measures",
+            "type": "calculator",
+            "hash_location": "ch_186",
+            "chapterIndex": "4",
+            "calculator_id": "11",
+            "depth": 1
+          },
+          {
+            "name": "Metric System",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Metric Designator and Trade Sizes",
+                "type": "calculator",
+                "hash_location": "ch_188",
+                "chapterIndex": "4",
+                "calculator_id": "11",
+                "depth": 2
+              },
+              {
+                "name": "U.S. Weights and Measures/Metric Equivalent Chart",
+                "type": "calculator",
+                "hash_location": "ch_189",
+                "chapterIndex": "4",
+                "calculator_id": "11",
+                "depth": 2
+              },
+              {
+                "name": "Explanation Of Scientific Notation",
+                "type": "calculator",
+                "hash_location": "ch_190",
+                "chapterIndex": "4",
+                "calculator_id": "11",
+                "depth": 2
+              },
+              {
+                "name": "Useful Conversions/Equivalents",
+                "type": "calculator",
+                "hash_location": "ch_191",
+                "chapterIndex": "4",
+                "calculator_id": "11",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Decimal Equivalents",
+            "type": "calculator",
+            "calculator_id": "11",
+            "hash_location": "ch_192",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Two-Way Conversion Table",
+            "type": "calculator",
+            "hash_location": "ch_194",
+            "chapterIndex": "4",
+            "calculator_id": "11",
+            "depth": 1
+          },
+          {
+            "name": "Metals",
+            "type": "epub",
+            "hash_location": "ch_194",
+            "chapterIndex": "4",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Specific Resistance (K)",
+                "type": "epub",
+                "hash_location": "ch_195",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Centigrade and Fahrenheit Thermometer Scales",
+            "type": "calculator",
+            "hash_location": "ch_196",
+            "chapterIndex": "4",
+            "calculator_id": "11",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Math Reference",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Useful Math Formulas",
+            "type": "epub",
+            "hash_location": "ch_197",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "The Circle",
+            "type": "epub",
+            "hash_location": "ch_198",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Fractions",
+            "type": "epub",
+            "hash_location": "ch_199",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Equations",
+            "type": "epub",
+            "hash_location": "ch_200",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Natural Trigonometric Functions",
+            "type": "epub",
+            "hash_location": "ch_201",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Trigonometry",
+            "type": "epub",
+            "hash_location": "ch_202",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Conduit Bending",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "90° Bends",
+            "type": "interactive",
+            "hash_location": "ch_210",
+            "chapterIndex": "4",
+            "calculator_id": "6",
+            "depth": 1
+          },
+          {
+            "name": "Bending Offsets with Trigonometry",
+            "type": "epub",
+            "hash_location": "ch_203",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Back-To-Back Bends",
+            "type": "interactive",
+            "hash_location": "ch_211",
+            "chapterIndex": "4",
+            "calculator_id": "7",
+            "depth": 1
+          },
+          {
+            "name": "Offset Bends",
+            "type": "calculator",
+            "calculator_id": "12",
+            "hash_location": "ch_209",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Box Offset",
+            "type": "interactive",
+            "hash_location": "ch_205",
+            "chapterIndex": "4",
+            "calculator_id": "9",
+            "depth": 1
+          },
+          {
+            "name": "Rolling Offsets",
+            "type": "interactive",
+            "hash_location": "ch_204",
+            "chapterIndex": "4",
+            "calculator_id": "6",
+            "depth": 2
+          },
+          {
+            "name": "Three-Point Saddle Bends",
+            "type": "interactive",
+            "hash_location": "ch_212",
+            "chapterIndex": "4",
+            "calculator_id": "8",
+            "depth": 1
+          },
+          {
+            "name": "Four-Point Saddle Bends",
+            "type": "interactive",
+            "hash_location": "ch_212",
+            "chapterIndex": "4",
+            "calculator_id": "9",
+            "depth": 1
+          },
+          {
+            "name": "Multi-Shot: 90° Conduit Bending",
+            "type": "interactive",
+            "hash_location": "ch_208",
+            "chapterIndex": "4",
+            "calculator_id": "4",
+            "depth": 1
+          },
+          {
+            "name": "Chicago-Type Benders: 90° Bending",
+            "type": "interactive",
+            "hash_location": "ch_206",
+            "chapterIndex": "4",
+            "calculator_id": "2",
+            "depth": 1
+          },
+          {
+            "name": "Chicago-Type Benders: Offsets",
+            "type": "interactive",
+            "hash_location": "ch_207",
+            "chapterIndex": "4",
+            "calculator_id": "3",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Job-Site Reference",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Pulley Calculations",
+            "type": "epub",
+            "hash_location": "ch_213",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Useful Knots",
+            "type": "epub",
+            "hash_location": "ch_214",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Hand Signals",
+            "type": "epub",
+            "hash_location": "ch_215",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Electrical Safety",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Definitions",
+            "type": "epub",
+            "hash_location": "ch_216",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Checklist",
+            "type": "epub",
+            "hash_location": "ch_217",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Lockout–Tagout Procedures",
+            "type": "epub",
+            "hash_location": "ch_218",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Shock Protection Boundaries",
+            "type": "epub",
+            "hash_location": "ch_219",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "How to Read a Warning Label",
+            "type": "epub",
+            "hash_location": "ch_220",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Personal Protection Equipment Guide",
+            "type": "epub",
+            "hash_location": "ch_221",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "Alternative Energy",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Engine-Generation Systems",
+            "type": "epub",
+            "hash_location": "ch_222",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Solar Photovoltaic Systems",
+            "type": "epub",
+            "hash_location": "ch_223",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Wind Turbines",
+            "type": "epub",
+            "hash_location": "ch_224",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Fuel Cells",
+            "type": "epub",
+            "hash_location": "ch_225",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Microturbines",
+            "type": "epub",
+            "hash_location": "ch_226",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Interconnected Generation Systems",
+            "type": "epub",
+            "hash_location": "ch_227",
+            "chapterIndex": "4",
+            "depth": 1
+          }
+        ]
+      },
+      {
+        "name": "First Aid",
+        "depth": 0,
+        "subtopics": [
+          {
+            "name": "Scene Size-Up",
+            "type": "epub",
+            "hash_location": "ch_229",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "How to Call for Help",
+            "type": "epub",
+            "hash_location": "ch_230",
+            "chapterIndex": "4",
+            "depth": 1
+          },
+          {
+            "name": "Airway Obstruction",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Management Of Responsive Choking Victim",
+                "type": "epub",
+                "hash_location": "ch_231",
+                "chapterIndex": "4",
+                "depth": 1
+              },
+              {
+                "name": "Adult Cardiopulmonary Resuscitation (CPR)",
+                "type": "epub",
+                "hash_location": "ch_232",
+                "chapterIndex": "4",
+                "depth": 1
+              },
+              {
+                "name": "Bleeding",
+                "type": "epub",
+                "hash_location": "ch_233",
+                "chapterIndex": "4",
+                "depth": 1
+              }
+            ]
+          },
+          {
+            "name": "Burns",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Care for Burns",
+                "type": "epub",
+                "hash_location": "ch_235",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Electrical Burns",
+                "hash_location": "ch_236",
+                "chapterIndex": "4",
+                "type": "epub",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Frostbite",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Frostbite",
+                "type": "epub",
+                "hash_location": "ch_238",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Frostbite",
+                "type": "epub",
+                "hash_location": "ch_239",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Heart Attack",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing a Heart Attack",
+                "type": "epub",
+                "hash_location": "ch_241",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for a Heart Attack",
+                "type": "epub",
+                "hash_location": "ch_242",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Heat Cramps",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Heat Cramps",
+                "type": "epub",
+                "hash_location": "ch_244",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Heat Cramps",
+                "type": "epub",
+                "hash_location": "ch_245",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Heat Exhaustion",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Heat Exhaustion",
+                "type": "epub",
+                "hash_location": "ch_247",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Heat Exhaustion",
+                "type": "epub",
+                "hash_location": "ch_248",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Heatstroke",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Heatstroke",
+                "type": "epub",
+                "hash_location": "ch_250",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Heatstroke",
+                "type": "epub",
+                "hash_location": "ch_251",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Hypothermia",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Hypothermia",
+                "type": "epub",
+                "hash_location": "ch_253",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Hypothermia",
+                "type": "epub",
+                "hash_location": "ch_254",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Ingested Poisoning",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Ingested Poisoning",
+                "type": "epub",
+                "hash_location": "ch_256",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Ingested Poisoning",
+                "type": "epub",
+                "hash_location": "ch_257",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Shock",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing Shock",
+                "type": "epub",
+                "hash_location": "ch_259",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for Shock",
+                "type": "epub",
+                "hash_location": "ch_260",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          },
+          {
+            "name": "Stroke",
+            "depth": 1,
+            "subtopics": [
+              {
+                "name": "Recognizing a Stroke",
+                "type": "epub",
+                "hash_location": "ch_262",
+                "chapterIndex": "4",
+                "depth": 2
+              },
+              {
+                "name": "Care for a Stroke",
+                "type": "epub",
+                "hash_location": "ch_263",
+                "chapterIndex": "4",
+                "depth": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
